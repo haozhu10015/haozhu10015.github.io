@@ -1,0 +1,26 @@
+# Basic Information 
+title: Hao Zhu
+department: Department of Computer Science
+department_url: "https://www.informatik.uni-freiburg.de/"
+affiliation: University of Freiburg
+affiliation_url: "https://uni-freiburg.de/"
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Hao Zhu
+description: PhD student, Department of Computer Science, University of Freiburg
+canonical: https://haozhu10015.github.io/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/DSC05586.JPG
+favicon: ./assets/img/favicon-192x192.png
+favicon_dark: ./assets/img/favicon-192x192.png
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - jekyll-jemdoc.gemspec

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+</head>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png"/>
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png"/>
+    <meta charset="utf-8">
+</head>
+<link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/jemdocCustom.css" type="text/css" />
+<title>{{ site.title }} - {{ page.title }}</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+    {% include navbar.html %}
+<td id="layout-content">
+<div id="toptitle">
+    <h1>{{ site.title }} - {{ page.title }}</h1>
+    <div id="subtitle"><a href="{{ site.department_url }}">{{ site.department }}</a>, <a href="{{ site.affiliation_url }}">{{ site.affiliation }}</a></div>
+</div>
+
+{{ content }}
+
+<div id="footer">
+<div id="footer-text">
+Powered by <a href="https://github.com/yaoyao-liu/jekyll-jemdoc">Jekyll-jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
