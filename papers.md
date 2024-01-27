@@ -21,4 +21,5 @@ Papers are listed below by year of submission before they are published, or year
 <ul>
 <a href="papers/arg59_hppo.html">The hydrogen bonding network involved Arg59 in human protoporphyrinogen IX oxidase is essential for enzyme activity</a>
 <ul>Wang, B., Zhang, Z., <b>Zhu, H.</b>, Niu, C., Wen, X. and Xi, Z.</ul>
+<ul><em>Biochemical and Biophysical Research Communications</em>, 557, 20-25, 2023.</ul>
 </ul>
