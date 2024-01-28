@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student at the [Neurorobotics Lab](https://nr.informatik.uni-freiburg.de/welcome) (led by [Prof. Joschka Boedecker](https://nr.informatik.uni-freiburg.de/people/joschka-boedecker)), [Department of Computer Science](https://www.informatik.uni-freiburg.de/), [University of Freiburg](https://uni-freiburg.de/).
 
-## Research interests
+## Area of interests
 
 <ul>
   <li><b>Machine learning:</b></li>
