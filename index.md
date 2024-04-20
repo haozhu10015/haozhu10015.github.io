@@ -14,7 +14,8 @@ I am a Ph.D. student at the [Neurorobotics Lab](https://nr.informatik.uni-freibu
     <li>reinforcement learning</li>
     <li>inverse reinforcement learning</li>
     <li>probabilistic graphical models</li>
-    <li>optimization</li>
+    <li>causal discovery in high-dimensional time-series</li>
+    <li>convex analysis and optimization</li>
     </ul>
   <li><b>Neuroscience:</b></li>
     <ul>
