@@ -8,7 +8,7 @@ This webpage contains basic course information; up to date and detailed informat
 
 ## Announcements
 
-* Welcome to Probabilistic Graphical Models (11E13MO-1228), Sommer semester 2024.
+* Welcome to Probabilistic Graphical Models (11E13MO-1228), Summer semester 2024.
 * This course will be taught by Prof. Joschka Boedecker and Hao Zhu.
 * Lectures are Tuesdays, 16:15 -- 17:45; exercises (and occasionally lectures) are Wednesdays, 12:15 -- 13:45. The first lecture is April 16.
 * The classroom for lectures and exercises is building 101, SR 01-016/18.
@@ -26,8 +26,8 @@ The lecture deals with methods of Probabilistic Graphical Models that constitute
 3. Markov models
 4. Bayesian networks
 5. Inference with Monte Carlo methods
-6. Decision graphs
-7. Markov decision processes
+6. Markov decision problems
+7. Control as probabilistic inference
 8. Graphical causal models
 9. Deep learning and graphical models
 
