@@ -12,7 +12,7 @@ Papers are listed below by year of submission before they are published, or year
 ## 2023
 
 <ul>
-[Paper] <a href="papers/lmviql.html">L(M)V-IQL: Multiple intention inverse reinforcement learning for animal behavior characterization</a>
+[Paper] <a href="papers/lmviql.html">Multi-intention inverse Q-learning for interpretable behavior representation</a>
 <ul><b>Zhu, H.</b>, De La Crompe, B., Kalweit, G., Schneider, A., Kalweit, M., Diester, I. and Boedecker, J.</ul>
 </ul>
 

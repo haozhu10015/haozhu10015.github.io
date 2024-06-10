@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "L(M)V-IQL: Multiple Intention Inverse Reinforcement Learning for Animal Behavior Characterization"
+title: "Multi-intention inverse Q-learning for interpretable behavior representation"
 subtitle: "<b>Zhu, H.</b>, De La Crompe, B., Kalweit, G., Schneider, A., Kalweit, M., Diester, I. and Boedecker, J."
 ---
 
