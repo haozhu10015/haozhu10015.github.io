@@ -21,17 +21,19 @@ This webpage contains basic course information; up to date and detailed informat
 The lecture deals with methods of Probabilistic Graphical Models that constitute an important class of machine learning algorithms. A brief content about the topics of the course can be found below.
 <br/><br/>
 
-1. Introduction
-2. Bayesian classifiers
-3. Markov models
-4. Bayesian networks
-5. Inference with Monte Carlo methods
-6. Markov decision problems
-7. Control as probabilistic inference
-8. Graphical causal models
-9. Deep learning and graphical models
+1. <a href="/pdf/pgm_course/ch1.pdf">Introduction</a>
+2. <a href="/pdf/pgm_course/ch2.pdf">Bayesian classifiers</a>
+3. <a href="/pdf/pgm_course/ch3.pdf">Markov models</a>
+4. <a href="/pdf/pgm_course/ch4.pdf">Bayesian networks</a>
+5. <a href="/pdf/pgm_course/a1.pdf">Inference with Monte Carlo methods</a>
+6. <a href="/pdf/pgm_course/ch5.pdf">Markov decision problems</a>
+7. <a href="/pdf/pgm_course/ch6.pdf">Control as probabilistic inference</a>
+8. Graphical causal models*
+9. Deep learning and graphical models*
 
 ## Textbooks
+
+* <a href="/pdf/pgm_course/pgm_notes.pdf">Probabilistic Graphical Models: Lecture notes and exercises</a>
 
 We will use the provided lecture notes as the official textbook of this course, which are based on the following books:
 <br/><br/>
