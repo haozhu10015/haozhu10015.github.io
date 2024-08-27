@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Multi-intention inverse Q-learning for interpretable behavior representation"
-subtitle: "<b>Zhu, H.</b>, De La Crompe, B., Kalweit, G., Schneider, A., Kalweit, M., Diester, I. and Boedecker, J."
+subtitle: "<b>H. Zhu</b>, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker"
 ---
 
 Manuscript, November 2023.
