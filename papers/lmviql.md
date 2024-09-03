@@ -4,7 +4,7 @@ title: "Multi-intention inverse Q-learning for interpretable behavior representa
 subtitle: "<b>H. Zhu</b>, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker"
 ---
 
-Manuscript, November 2023.
+To appear in *Transactions on Machine Learning Research*, September 2024
 <ul>
 <li><p><a href="/pdf/lmviql.pdf">Current version</a></p></li>
 </ul>
