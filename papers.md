@@ -12,7 +12,7 @@ Papers are listed below by year of submission before they are published, or year
 ## 2023
 
 <ul>
-[Paper] <a href="papers/lmviql.html">Multi-intention inverse Q-learning for interpretable behavior representation</a>
+[Paper] <a href="papers/miiql.html">Multi-intention inverse Q-learning for interpretable behavior representation</a>
 <ul><b>H. Zhu</b>, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker</ul>
 </ul>
 
