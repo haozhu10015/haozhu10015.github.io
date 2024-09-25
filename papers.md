@@ -12,13 +12,18 @@ Papers are listed below by year of submission before they are published, or year
 ## 2023
 
 <ul>
+[Talk] <a href="papers/bcf2024miirl.html">Inverse Reinforcement Learning in Animal Behavior Characterization</a>
+<ul>J. Boedecker and <b>H. Zhu</b></ul>
+</ul>
+
+<ul>
 [Paper] <a href="papers/miiql.html">Multi-intention inverse Q-learning for interpretable behavior representation</a>
 <ul><b>H. Zhu</b>, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker</ul>
 </ul>
 
 <ul>
 [Talk] <a href="papers/for5159_2023.html">Inverse Q-learning as a tool to investigate behavior and its neural correlates</a>
-<ul>J. Boedecker and <b>H. Zhu</b><br/>(alphabetical author order)</ul>
+<ul>J. Boedecker and <b>H. Zhu</b></ul>
 </ul>
 
 ## 2021
