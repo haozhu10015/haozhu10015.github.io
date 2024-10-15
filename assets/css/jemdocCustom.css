@@ -1,26 +1,5 @@
 /* Default css file for jemdoc. */
 
-@font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsx.otf');
-    font-weight: bold;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunsi.otf');
-    font-style: italic, oblique;
-  }
-  @font-face {
-    font-family: "Computer Modern";
-    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunbxo.otf');
-    font-weight: bold;
-    font-style: italic, oblique;
-  }
-
 table#tlayout {
     border: none;
     border-collapse: separate;
@@ -29,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: "Computer Modern", sans-serif;
+	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -86,11 +65,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #00004a;
+	color: #022b6d;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #344A9A;
+	color: #527bbd;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -138,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #344A9A;
+	color: #527bbd;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -154,7 +133,7 @@ h1 {
 }
 
 h2 {
-	padding-top: 2em;
+	padding-top: 0.8em;
 	font-size: 125%;
 }
 
@@ -168,8 +147,8 @@ h3 {
 }
 
 p {
-	margin-top: 0.8em;
-	margin-bottom: 0;
+	margin-top: 0.0em;
+	margin-bottom: 0.8em;
 	padding: 0;
 	line-height: 1.3;
 }
@@ -200,7 +179,6 @@ ul, ol, dl {
 	margin-top: 0.2em;
 	padding-top: 0;
 	margin-bottom: 0.8em;
-	line-height: 1.5em
 }
 
 dt {
