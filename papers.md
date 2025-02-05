@@ -9,12 +9,26 @@ title: Papers & Talks
 
 Papers are listed below by year of submission before they are published, or year of publication.
 
-## 2023
+## 2025
 
 <ul>
-[Talk] <a href="papers/bcf2024miirl.html">Inverse Reinforcement Learning in Animal Behavior Characterization</a>
+[Paper] <a href="papers/cvx_imab.html">Solving inverse problem for multi-armed bandits via convex optimization</a>
+<ul><b>H. Zhu</b> and J. Boedecker</ul>
+</ul>
+
+## 2024
+
+<ul>
+[Paper] <a href="papers/cvx_irl.html">Inverse reinforcement learning via convex optimization</a>
+<ul><b>H. Zhu</b>, Y. Zhang, and J. Boedecker</ul>
+</ul>
+
+<ul>
+[Talk] <a href="papers/bcf2024miirl.html">Inverse reinforcement learning in animal behavior characterization</a>
 <ul>J. Boedecker and <b>H. Zhu</b></ul>
 </ul>
+
+## 2023
 
 <ul>
 [Paper] <a href="papers/miiql.html">Multi-intention inverse Q-learning for interpretable behavior representation</a>

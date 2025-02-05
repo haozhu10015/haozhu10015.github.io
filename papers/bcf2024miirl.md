@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Inverse Reinforcement Learning in Animal Behavior Characterization"
+title: "Inverse reinforcement learning in animal behavior characterization"
 subtitle: "J. Boedecker and <b>H. Zhu</b>"
 ---
 

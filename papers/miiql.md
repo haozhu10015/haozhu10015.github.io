@@ -12,7 +12,7 @@ subtitle: "<b>H. Zhu</b>, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit,
 <li><p><a href="/pdf/miiql/miiql_slides.pdf">Slides</a></p></li>
 </ul>
 <ul>
-<li><p><a href="https://github.com/haozhu10015/hiql">Code</a></p></li>
+<li><p><a href="https://github.com/nrgrp/hiql">Code</a></p></li>
 </ul>
 <ul>
 <li><p><a href="https://www.youtube.com/watch?v=0u-fboAO6-I">Video</a></p></li>
