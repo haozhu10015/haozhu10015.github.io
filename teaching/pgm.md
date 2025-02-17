@@ -28,8 +28,6 @@ The lecture deals with methods of Probabilistic Graphical Models that constitute
 5. <a href="/pdf/pgm_course/a1.pdf">Inference with Monte Carlo methods</a>
 6. <a href="/pdf/pgm_course/ch5.pdf">Markov decision problems</a>
 7. <a href="/pdf/pgm_course/ch6.pdf">Control as probabilistic inference</a>
-8. Graphical causal models*
-9. Deep learning and graphical models*
 
 ## Textbooks
 
@@ -46,10 +44,3 @@ We will use the provided lecture notes as the official textbook of this course, 
 ## Prerequisites
 
 Good knowledge of linear algebra and probability. Exposure to graph theory, optimization, and reinforcement learning helpful but not required.
-
-## Objectives
-
-* to present the basic theory of probabilistic modeling
-* to give students the training on the logic of probabilistic modeling
-* to give students the tools to solve machine learning problems with probabilistic graphical models
-* to give students the background required to adapt the methods in their own research work or applications
