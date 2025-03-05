@@ -6,7 +6,7 @@ subtitle: "<b>H. Zhu</b> and J. Boedecker"
 
 *Manuscript*, January 2025.
 <ul>
-<li><p><a href="/pdf/cvx_imab/cvx_imab_paper.pdf">Current version</a></p></li>
+<li><p><a href="/pdf/cvx_imab.pdf">Current version</a></p></li>
 </ul>
 <ul>
 <li><p><a href="https://github.com/nrgrp/cvx_imab">Code</a></p></li>
