@@ -9,17 +9,22 @@ I am a Ph.D. student at the [Neurorobotics Lab](https://nr.informatik.uni-freibu
 ## Area of interests
 
 <ul>
-  <li><b>Machine learning:</b></li>
+  <li><b>mathematical optimization:</b></li>
     <ul>
-    <li>convex analysis and optimization</li>
-    <li>reinforcement learning</li>
-    <li>inverse reinforcement learning</li>
+      <li>convex analysis and optimization</li>
+      <li>modeling languages for (non)convex optimization problems</li>
+      <li>convex optimization for scientific computation</li>
     </ul>
-  <li><b>Neuroscience:</b></li>
+  <li><b>machine learning:</b></li>
     <ul>
-    <li>mathematical modeling of animal and human decision-making behavior</li>
-    <li>neural decoding and manipulation</li>
-    <li>brain machine interface</li>
+      <li>constrained reinforcement learning</li>
+      <li>inverse reinforcement learning</li>
+    </ul>
+  <li><b>neuroscience and psychology:</b></li>
+    <ul>
+      <li>mathematical modeling of animal and human decision making behavior</li>
+      <li>neural decoding and manipulation</li>
+      <li>brain machine interface</li>
     </ul>
 </ul>
 
