@@ -4,17 +4,11 @@ title: Probabilistic Graphical Models
 subtitle: <a href="https://nr.informatik.uni-freiburg.de/people/joschka-boedecker">Prof. Joschka Boedecker</a>, <a href="https://nr.informatik.uni-freiburg.de/people/hao-zhu">Hao Zhu</a>
 ---
 
-This webpage contains basic course information; up to date and detailed information is on <a href="https://ilias.uni-freiburg.de/ilias.php?ref_id=3444901&cmdClass=ilrepositorygui&cmdNode=zm&baseClass=ilrepositorygui">ILIAS</a>.
+This page was created for posting (or really, archiving) some useful material for the course 'Probabilistic Graphical Models' developed and taught by Prof. Joschka Boedecker and me in 2024.
+I might still help with the teaching of this course from time to time but I am no longer on the responsible person list anymore.
 
-## Announcements
-
-* Welcome to Probabilistic Graphical Models (11E13MO-1228), Summer semester 2024.
-* This course will be taught by Prof. Joschka Boedecker and Hao Zhu.
-* Lectures are Tuesdays, 16:15 -- 17:45; exercises (and occasionally lectures) are Wednesdays, 12:15 -- 13:45. The first lecture is April 16.
-* The classroom for lectures and exercises is building 101, SR 01-016/18.
-* The teaching language of this course is English.
-* We'll post more information about the exams as we get closer to the end of the semester.
-* Course materials will be on ILIAS, so slides, notes, and videos of the lectures will be available to enrolled students.
+Some material might be updated and additional topics might be introduced in the later semesters.
+It is possible that neither of them is included on this page.
 
 ## Catalog description
 
@@ -33,7 +27,7 @@ The lecture deals with methods of Probabilistic Graphical Models that constitute
 
 * <a href="/pdf/pgm_course/pgm_notes.pdf">Probabilistic Graphical Models: Lecture notes and exercises</a>
 
-We will use the provided lecture notes as the official textbook of this course, which are based on the following books:
+We will use the provided lecture notes as the official textbook of this course, which are based on the following books.
 <br/><br/>
 
 * <a href="https://link.springer.com/book/10.1007/978-3-030-61943-5">Probabilistic Graphical Models: Principles and Applications (2nd edition)</a>, Luis Enrique Sucar (2021)
