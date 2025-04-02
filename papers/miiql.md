@@ -6,16 +6,10 @@ subtitle: "<b>H. Zhu</b>, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit,
 
 *Transactions on Machine Learning Research*, September 2024.
 <ul>
-<li><p><a href="/pdf/miiql/miiql_paper.pdf">Final version</a></p></li>
-</ul>
-<ul>
-<li><p><a href="/pdf/miiql/miiql_slides.pdf">Slides</a></p></li>
-</ul>
-<ul>
-<li><p><a href="https://github.com/nrgrp/hiql">Code</a></p></li>
-</ul>
-<ul>
-<li><p><a href="https://www.youtube.com/watch?v=0u-fboAO6-I">Video</a></p></li>
+    <li><p><a href="/pdf/miiql/miiql_paper.pdf">Final version</a></p></li>
+    <li><p><a href="/pdf/miiql/miiql_slides.pdf">Slides</a></p></li>
+    <li><p><a href="https://github.com/nrgrp/hiql">Code</a></p></li>
+    <li><p><a href="https://www.youtube.com/watch?v=0u-fboAO6-I">Video</a></p></li>
 </ul>
 
 In advancing the understanding of natural decision-making processes, inverse reinforcement learning (IRL) methods have proven instrumental in reconstructing animal's intentions underlying complex behaviors.

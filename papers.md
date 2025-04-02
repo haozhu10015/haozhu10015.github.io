@@ -12,6 +12,11 @@ Papers are listed below by year of submission before they are published, or year
 ## 2025
 
 <ul>
+[Paper] <a href="papers/mcp_dlfm.html">Multi-convex programming for discrete latent factor models prototyping</a>
+<ul><b>H. Zhu</b>, S. Yan, J. Hoffmann, and J. Boedecker</ul>
+</ul>
+
+<ul>
 [Paper] <a href="papers/sleep_memory_system.html">Sleep resolves competition between explicit and implicit memory systems</a>
 <ul>K. Kleespies, P. Paulus, <b>H. Zhu</b>, F. Pargent, M. Jakob, J. Werle, M. Czisch, J. Boedecker, S. Gais, and M. Schönauer</ul>
 </ul>

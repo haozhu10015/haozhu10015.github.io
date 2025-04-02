@@ -6,7 +6,7 @@ subtitle: "K. Kleespies, P. Paulus, <b>H. Zhu</b>, F. Pargent, M. Jakob, J. Werl
 
 *Manuscript*, February 2025.
 <ul>
-<li><p><a href="/pdf/sleep_memory_system.pdf">Current version</a></p></li>
+    <li><p><a href="/pdf/sleep_memory_system.pdf">Current version</a></p></li>
 </ul>
 
 Sleep supports stabilization of explicit, declarative memory and benefits implicit, procedural memory.

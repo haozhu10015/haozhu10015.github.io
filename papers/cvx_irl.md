@@ -6,13 +6,9 @@ subtitle: "<b>H. Zhu</b>, Y. Zhang, and J. Boedecker"
 
 *Manuscript*, December 2024.
 <ul>
-<li><p><a href="/pdf/cvx_irl/cvx_irl_paper.pdf">Current version</a></p></li>
-</ul>
-<ul>
-<li><p><a href="/pdf/cvx_irl/cvx_irl_talk.pdf">Slides</a></p></li>
-</ul>
-<ul>
-<li><p><a href="https://github.com/nrgrp/cvx_irl">Code</a></p></li>
+    <li><p><a href="/pdf/cvx_irl/cvx_irl_paper.pdf">Current version</a></p></li>
+    <li><p><a href="/pdf/cvx_irl/cvx_irl_talk.pdf">Slides</a></p></li>
+    <li><p><a href="https://github.com/nrgrp/cvx_irl">Code</a></p></li>
 </ul>
 
 We consider the inverse reinforcement learning (IRL) problem, where an unknown reward function of some Markov decision process is estimated based on observed expert demonstrations.
