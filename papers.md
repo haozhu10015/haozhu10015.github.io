@@ -7,6 +7,8 @@ title: Papers & Talks
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Hao-Zhu/2268311007)
 
+[arXiv](http://arxiv.org/a/zhu_h_9)
+
 Papers are listed below by year of submission before they are published, or year of publication.
 
 ## 2025
