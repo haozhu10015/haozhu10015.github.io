@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{software.html}
+= Hao Zhu - Software
+[https://www.informatik.uni-freiburg.de/ Department of Computer Science] [https://uni-freiburg.de/ University of Freiburg]
+
+
+Source for most of my projects is hosted on the [https://github.com/nrgrp Neurorobotics Group] GitHub site.
+
+Some older software I developed may still be available under my personal GitHub account [https://github.com/haozhu10015 haozhu10015].
+
+== Recent software
+
+- [https://github.com/nrgrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in +Python+

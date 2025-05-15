@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{}{../}
+= Real Analysis
+
+This course was developed by me around 2025, but is no longer taught.
+This page was made to archive some good material of this course, and I would like to teach it again some day.
+
+== Catalog description
+Introduction to mathematical analysis with the objective of being able to understanding and writing proofs.
+Topics include:
+Basic set theory and real numbers.
+Convergence of sequences and series of real numbers.
+Continuity, differentiability, and Riemann integral of single variable functions.
+Sequences of functions and interchange of limit operations.
+Metric spaces, topology, and convergence properties.
+
+The material of this course was developed based on the book [https://www.jirka.org/ra Basic Analysis: Introduction to Real Analysis] by Jiří Lebl, and the course [https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020 18.100A] provided by MIT.
+
+== Lecture slides
+
+. [../pdf/realalys_course/ch1.pdf Basic set theory]
+. [../pdf/realalys_course/ch2.pdf Real numbers]
+. [../pdf/realalys_course/ch3.pdf Sequences]
+. [../pdf/realalys_course/ch4.pdf Series]
+. [../pdf/realalys_course/ch5.pdf Continuous functions]
+. [../pdf/realalys_course/ch6.pdf Derivative]
+. [../pdf/realalys_course/ch7.pdf Riemann integral]
+. [../pdf/realalys_course/ch8.pdf Sequences of functions]
+. [../pdf/realalys_course/ch9.pdf Metric spaces]
+
+The full set of slides is available as one PDF file [../pdf/realalys_course/raslides.pdf here].
+
+== Course reader
+
+The [../pdf/realalys_course/rareader.pdf course reader] is one PDF file consisting of a cover page together with the lecture slides (in 2up format).
