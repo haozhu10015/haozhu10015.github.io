@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{index.html}
+= Hao Zhu
+
+~~~
+{}{img_left}{img/zhphoto.jpg}{alt text}{244.8px}{}{}
+Hao Zhu \n
+Ph.D. Student \n 
+[https://www.informatik.uni-freiburg.de/ Department of Computer Science] \n
+[https://uni-freiburg.de/ University of Freiburg]  \n
+\[[https://scholar.google.com/citations?user=bWdrl34AAAAJ&hl=en Google Scholar]\] \M \[[https://github.com/haozhu10015 GitHub]\]
+~~~
+
+== About me
+
+I am a Ph.D. student at the [https://nr.informatik.uni-freiburg.de/welcome Neurorobotics Group] led by [https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Prof. Joschka Boedecker], [https://www.informatik.uni-freiburg.de/ Department of Computer Science], [https://uni-freiburg.de/ University of Freiburg].
+
+
+My current research involves the following topics.
+
+- *mathematical optimization:*
+    -- convex analysis and optimization
+    -- convex optimization for scientific computation
+    -- modeling languages for mathematical optimization problems
+- *machine learning:*
+    -- inverse reinforcement learning
+    -- constrained reinforcement learning
+- *neuroscience and psychology:*
+    -- mathematical modeling of animal and human decision making behavior
+    -- neural decoding and manipulation
+    -- brain machine interface
+
+
+== Contact
+
+*{{IMBIT//BrainLinks-BrainTools}}*
+
+Georges-Koehler-Allee 201 \n
+79110 Freiburg im Breisgau, Germany \n
+[mailto:zhuh@cs.uni-freiburg.de zhuh@cs.uni-freiburg.de] \n
+[https://haozhu10015.github.io {{https://haozhu10015.github.io}}] \n
+[https://nr.informatik.uni-freiburg.de/people/hao-zhu {{https://nr.informatik.uni-freiburg.de/people/hao-zhu}}]
