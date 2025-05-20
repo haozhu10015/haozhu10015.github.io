@@ -15,6 +15,10 @@ jemdoc: init ## generate jemdoc webpage
 	@printf "$(BLUE)Generating jemdoc webpage...$(RESET)\n"
 	@uv run jemdoc.py -c zhweb.conf *.jemdoc papers/*.jemdoc teaching/*.jemdoc
 
+.PHONY: preview
+preview: ## preview the webpage
+	@uv run python -m http.server 8000
+
 .PHONY: clean
 clean: ## clean generated files and directories
 	@printf "$(BLUE)Cleaning project...$(RESET)\n"
