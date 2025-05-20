@@ -10,3 +10,7 @@
 /[https://www.bcf.uni-freiburg.de/ Bernstein Center Freiburg] Staff Retreat/, September 2024.
 
 - [../pdf/bcf2024miirl.pdf Slides]
+
+Characterizing goal directed animal behavior has been an interesting topic in neuroscience for decades.
+The inverse reinforcement learning methods, which have already been widely applied in autonomous driving, control, robotics, etc., are recently recognized as a useful tool in addressing related behavioral neuroscience questions.
+In this talk, we briefly introduce the basic idea of inverse reinforcement learning from the perspective of mathematical optimization, and provide some examples about how this idea can be applied in characterizing animal behavior.

@@ -11,3 +11,8 @@
 
 - [../pdf/for5159_2023.pdf Slides]
 - [https://colab.research.google.com/drive/1YbHB0V1JQ5e_0T5zIR-nmRwmNOILY6v-?usp=sharing Exercise] and [https://colab.research.google.com/drive/1ZNthYIGPGIvc7qKQtqySxxwyRhGYLvT2?usp=sharing Solution]
+
+Understanding goal directed animal behavior has been an widely interested topic in the neuroscience community.
+Recently, reinforcement learning and inverse reinforcement learning methods have been recognized as a useful tool for the research of this topic.
+In this talk we discuss how these tools can be applied to answer the following questions:
+How do we explain goal-directed animal behavior given that we often see objectively nonoptimal behavior, which factors contribute, and what are the animals optimizing for?
