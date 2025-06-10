@@ -15,6 +15,20 @@ jemdoc: init ## generate jemdoc webpage
 	@printf "$(BLUE)Generating jemdoc webpage...$(RESET)\n"
 	@uv run jemdoc.py -c zhweb.conf *.jemdoc papers/*.jemdoc teaching/*.jemdoc
 
+.PHONY: add
+add:
+	@git add */*.jemdoc
+
+.PHONY: update
+update: init add ## compile new or modified jemdoc files
+	@for f in $(shell git diff --name-only HEAD | grep '\.jemdoc$$'); do \
+		if [ -f "$$f" ]; then \
+			printf "$(BLUE)Compiling $$f...$(RESET)\n"; \
+			uv run jemdoc.py -c zhweb.conf "$$f"; \
+		fi; \
+	done
+	@git reset -q
+
 .PHONY: preview
 preview: ## preview the webpage
 	@uv run python -m http.server 8000
