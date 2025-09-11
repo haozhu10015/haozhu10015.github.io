@@ -31,7 +31,7 @@ update: init add ## compile new or modified jemdoc files
 
 .PHONY: preview
 preview: ## preview the webpage
-	@uv run python -m http.server 8000
+	@uv run python -m http.server 8000 --bind 127.0.0.1
 
 .PHONY: clean
 clean: ## clean generated files and directories
