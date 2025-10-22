@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{}{../}
+# jemdoc: title{Constrained reinforcement learning with smoothed log barrier function}
+
+== Constrained reinforcement learning with smoothed log barrier function
+
+/B. Zhang, Y. Zhang, H. Zhu, S. Yan, T. Brox, and J. Boedecker/
+
+/Transactions on Machine Learning Research/, October 2025.
+
+- [../pdf/constr_rl_sm_log.pdf Final version]
+- [https://github.com/2BH/saferl-lib Code]
+
+Deploying reinforcement learning (RL) in real-world systems often requires satisfying strict safety constraints during both training and deployment, which simple reward shaping typically fails to enforce.
+Existing constrained RL algorithms frequently face several major challenges, including  instabilities during training and overly conservative policies.
+To overcome these limitations, we propose CSAC-LB (Constrained Soft Actor-Critic with Log Barrier), a model-free, sample-efficient, off-policy algorithm that requires no pre-training.
+CSAC-LB integrates a linear smoothed log barrier function into the actor’s objective, providing a numerically stable, non-vanishing gradient that enables the agent to quickly recover from unsafe states while avoiding the instability of traditional interior-point methods.
+To further enhance safety and mitigate the underestimation of constraint violations, we employ a pessimistic double-critic architecture for the cost function, taking the maximum of two cost Q-networks to conservatively guide the policy.
+Through extensive experiments on challenging constrained control tasks, we demonstrate that CSAC-LB significantly outperforms baselines by consistently achieving high returns while strictly adhering to safety constraints.
+Our results establish CSAC-LB as a robust and stable solution for applying RL to safety-critical domains.

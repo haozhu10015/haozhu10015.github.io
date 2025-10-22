@@ -14,6 +14,9 @@ Papers are listed below by year of submission before they are published, or year
 
 == 2025
 
+: {[/papers/constr_rl_sm_log.html Constrained reinforcement learning with smoothed log barrier function]}
+B. Zhang, Y. Zhang, _H. Zhu_, S. Yan, T. Brox, and J. Boedecker
+
 : {[/papers/mcp_dlfm.html Multi-convex programming for discrete latent factor models prototyping]}
 _H. Zhu_, S. Yan, J. Hoffmann, and J. Boedecker
 
