@@ -8,7 +8,7 @@
 /Transactions on Machine Learning Research/, October 2025.
 
 - [../pdf/constr_rl_sm_log.pdf Final version]
-- [https://github.com/2BH/saferl-lib Code]
+- [https://github.com/nrgrp/saferl-lib Code]
 
 Deploying reinforcement learning (RL) in real-world systems often requires satisfying strict safety constraints during both training and deployment, which simple reward shaping typically fails to enforce.
 Existing constrained RL algorithms frequently face several major challenges, including  instabilities during training and overly conservative policies.
