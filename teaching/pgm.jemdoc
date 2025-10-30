@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{}{../}
+# jemdoc: menu{MENU}{pgm.html}{../}
 = Probabilistic Graphical Models
 [https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Prof. Joschka Boedecker], [https://nr.informatik.uni-freiburg.de/people/hao-zhu Hao Zhu]
 
