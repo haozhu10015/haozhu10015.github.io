@@ -8,6 +8,7 @@
 /Manuscript/, January 2025.
 
 - [../pdf/cvx_imab.pdf Current version]
+- [https://doi.org/10.48550/arXiv.2501.18945 arXiv entry]
 - [https://github.com/nrgrp/cvx_imab Code]
 
 We consider the inverse problem of multi-armed bandits (IMAB) that are widely used in neuroscience and psychology research for behavior modelling.
