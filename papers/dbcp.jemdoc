@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{}{../}
+# jemdoc: title{Disciplined biconvex programming}
+
+== Disciplined biconvex programming
+
+/H. Zhu and J. Boedecker/
+
+/Manuscript/, November 2025.
+
+- [../pdf/dbcp.pdf Current version]
+- [https://github.com/nrgrp/dbcp Code]
+
+We introduce disciplined biconvex programming (DBCP), a modeling framework for specifying and solving biconvex optimization problems.
+Biconvex optimization problems arise in various applications, including machine learning, signal processing, computational science, and control.
+Solving a biconvex optimization problem in practice is usually via heuristic methods based on alternate convex search (ACS), which iteratively optimizes over one block of variables while keeping the other fixed, such that the resulting subproblems are convex and can be efficiently solved.
+However, designing and implementing an ACS solver for a specific biconvex optimization problem usually requires significant effort from the user, which can be tedious and error-prone.
+DBCP extends the ideas of disciplined convex programming to biconvex problems, allowing users to specify biconvex optimization problems in a natural way based on a small number of syntax rules.
+The resulting problem can then be automatically splitted and transformed into convex subproblems, to which a customized ACS solver is then generated and applied.
+DBCP allows users to quickly experiment with different biconvex problem formulations, without expertise in convex optimization.
+We implement DBCP into the open source Python package +dbcp+, as an extension to the famous domain specific language +CVXPY+ for convex optimization.

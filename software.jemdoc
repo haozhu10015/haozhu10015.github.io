@@ -9,5 +9,6 @@ Some older software I developed may still be available under my personal GitHub 
 
 == Recent software
 
-- [https://github.com/nrgrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in +Python+
+- [https://github.com/nrgrp/dbcp +dbcp+]: a CVXPY extension for biconvex programming
+- [https://github.com/nrgrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in Python
 - [https://github.com/nrgrp/rlfit +rlfit+]: a Python package for fitting reinforcement learning models to behavior data under multi-armed bandits
