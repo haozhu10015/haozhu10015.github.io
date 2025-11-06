@@ -1,3 +1,5 @@
+@import url('/fonts/fonts.css');
+
 /* Default css file for jemdoc. */
 
 table#tlayout {
@@ -8,7 +10,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Georgia, serif;
+	font-family: 'georgia', serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -52,7 +54,7 @@ tt {
 
 pre, tt {
 	font-size: 90%;
-	font-family: monaco, monospace;
+	font-family: 'monaco', monospace;
 }
 
 a, a > tt {
