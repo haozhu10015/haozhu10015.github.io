@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{}{../}
+# jemdoc: title{Fitting reinforcement learning model to behavior data under bandits}
+
+== Fitting reinforcement learning model to behavior data under bandits
+
+/H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker/
+
+/Manuscript/, July 2025.
+
+- [../pdf/fit_rl_mab.pdf Current version]
+- [https://github.com/nrgrp/rlfit Python package]
+- [https://github.com/nrgrp/fit_rl_mab Experiments code]
+
+We consider the problem of fitting a reinforcement learning (RL) model to some given behavioral data under a multi-armed bandit environment.
+These models have received much attention in recent years for characterizing human and animal decision making behavior.
+We provide a generic mathematical optimization problem formulation for the fitting problem of a wide range of RL models that appear frequently in scientific research applications, followed by a detailed theoretical analysis of its convexity properties.
+Based on the theoretical results, we introduce a novel solution method for the fitting problem of RL models based on convex relaxation and optimization.
+Our method is then evaluated in several simulated bandit environments to compare with some benchmark methods that appear in the literature.
+Numerical results indicate that our method achieves comparable performance to the state-of-the-art, while significantly reducing computation time.
+We also provide an open-source Python package for our proposed method to empower researchers to apply it in the analysis of their datasets directly, without prior knowledge of convex optimization.

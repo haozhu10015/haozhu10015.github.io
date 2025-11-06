@@ -17,8 +17,8 @@ Papers are listed below by year of submission before they are published, or year
 : {[/papers/dbcp.html Disciplined biconvex programming]}
 _H. Zhu_ and J. Boedecker
 
-# : {[/papers/fit_rl_mab.html Fitting reinforcement learning model to behavior data under bandits]}
-# _H. Zhu_, J. Hoffmann, B. Zhang, and J. Boedecker
+: {[/papers/fit_rl_mab.html Fitting reinforcement learning model to behavior data under bandits]}
+_H. Zhu_, J. Hoffmann, B. Zhang, and J. Boedecker
 
 : {[/papers/constr_rl_sm_log.html Constrained reinforcement learning with smoothed log barrier function]}
 B. Zhang, Y. Zhang, _H. Zhu_, S. Yan, T. Brox, and J. Boedecker

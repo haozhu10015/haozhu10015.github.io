@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="/jemdoc.css" type="text/css" />
+<title>Fitting reinforcement learning model to behavior data under bandits</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<link rel="icon" href="/img/zhicon.png" type="image/x-icon" />
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Hao Zhu</div>
+<div class="menu-item"><a href="../index.html">Home</a></div>
+<div class="menu-item"><a href="../biography.html">Biography</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="../papers.html">Papers</a></div>
+<div class="menu-item"><a href="../software.html">Software</a></div>
+<div class="menu-category">Teaching</div>
+<div class="menu-item"><a href="../teaching/pgm.html">PGM</a></div>
+<div class="menu-item"><a href="../teaching/realalys.html">Real&nbsp;Analysis</a></div>
+</td>
+<td id="layout-content">
+<h2>Fitting reinforcement learning model to behavior data under bandits</h2>
+<p><i>H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker</i>
+</p>
+<p><i>Manuscript</i>, July 2025.
+</p>
+<ul>
+<li><p><a href="../pdf/fit_rl_mab.pdf" target=&ldquo;blank&rdquo;>Current version</a>
+</p>
+</li>
+<li><p><a href="https://github.com/nrgrp/rlfit" target=&ldquo;blank&rdquo;>Python package</a>
+</p>
+</li>
+<li><p><a href="https://github.com/nrgrp/fit_rl_mab" target=&ldquo;blank&rdquo;>Experiments code</a>
+</p>
+</li>
+</ul>
+<p>We consider the problem of fitting a reinforcement learning (RL) model to some given behavioral data under a multi-armed bandit environment.
+These models have received much attention in recent years for characterizing human and animal decision making behavior.
+We provide a generic mathematical optimization problem formulation for the fitting problem of a wide range of RL models that appear frequently in scientific research applications, followed by a detailed theoretical analysis of its convexity properties.
+Based on the theoretical results, we introduce a novel solution method for the fitting problem of RL models based on convex relaxation and optimization.
+Our method is then evaluated in several simulated bandit environments to compare with some benchmark methods that appear in the literature.
+Numerical results indicate that our method achieves comparable performance to the state-of-the-art, while significantly reducing computation time.
+We also provide an open-source Python package for our proposed method to empower researchers to apply it in the analysis of their datasets directly, without prior knowledge of convex optimization.</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2025-11-06 09:37:11 CET, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
