@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
 # jemdoc: title{Fitting reinforcement learning model to behavior data under bandits}
 
-== Fitting reinforcement learning model to behavior data under bandits
+== Fitting reinforcement learning model to behavioral data under bandits
 
 /H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker/
 
