@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{}{../}
 # jemdoc: addcss{/css/papers.css}
-= Inverse reinforcement learning via convex optimization
+= Inverse Reinforcement Learning via Convex Optimization
 H. Zhu, Y. Zhang, and J. Boedecker
 
 /Manuscript/, January 2025.

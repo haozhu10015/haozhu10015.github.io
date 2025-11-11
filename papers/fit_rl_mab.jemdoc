@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{}{../}
 # jemdoc: addcss{/css/papers.css}
-= Fitting reinforcement learning model to behavioral data under bandits
+= Fitting Reinforcement Learning Model to Behavioral Data under Bandits
 H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker
 
 /Manuscript/, July 2025.
