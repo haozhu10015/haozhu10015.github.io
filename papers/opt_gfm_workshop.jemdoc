@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{}{../}
+# jemdoc: addcss{/css/papers.css}
+= Generalized factor models workshop
+H. Zhu and J. Boedecker
+
+Materials for a workshop about optimization and generalized factor models.
+
+== Lecture slides
+
+== Additional materials
+
+- [https://stanford.edu/~boyd/cvxbook/ /Convex Optimization/ (book)]
+- [https://stanford.edu/class/ee364a/ Stanford EE364a (course)]: Convex Optimization I by Prof. Stephen Boyd; [https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h videos from 2023]
+- [https://dcp.stanford.edu/ DCP analyzer]
+
+Many other useful materials available at [https://web.stanford.edu/~boyd/ web.stanford.edu\/\~boyd].
+
+== Software
+
+- [https://www.cvxpy.org/ +CVXPY+]
+- [https://github.com/nrgrp/dbcp +dbcp+]
