@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{Disciplined biconvex programming}
-
-== Disciplined biconvex programming
-
-/H. Zhu and J. Boedecker/
+# jemdoc: addcss{/css/papers.css}
+= Disciplined biconvex programming
+H. Zhu and J. Boedecker
 
 /Manuscript/, November 2025.
 

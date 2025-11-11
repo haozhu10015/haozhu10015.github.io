@@ -1,0 +1,20 @@
+h1 {
+	font-size: 125%;
+}
+
+div#toptitle h1, #layout-content div#toptitle h1 {
+	margin-top: 0.5em;
+	margin-bottom: 0.3em;
+	padding-bottom: 0.2em;
+	line-height: 1.0;
+	padding-top: 0.5em;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+div#toptitle {
+	border-bottom: none;
+}
+
+div#subtitle {
+	font-style: italic;
+}

@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{Inverse reinforcement learning via convex optimization}
-
-== Inverse reinforcement learning via convex optimization
-
-/H. Zhu, Y. Zhang, and J. Boedecker/
+# jemdoc: addcss{/css/papers.css}
+= Inverse reinforcement learning via convex optimization
+H. Zhu, Y. Zhang, and J. Boedecker
 
 /Manuscript/, January 2025.
 

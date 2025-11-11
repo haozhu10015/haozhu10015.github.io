@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{Constrained reinforcement learning with smoothed log barrier function}
-
-== Constrained reinforcement learning with smoothed log barrier function
-
-/B. Zhang, Y. Zhang, H. Zhu, S. Yan, T. Brox, and J. Boedecker/
+# jemdoc: addcss{/css/papers.css}
+= Constrained reinforcement learning with smoothed log barrier function
+B. Zhang, Y. Zhang, H. Zhu, S. Yan, T. Brox, and J. Boedecker
 
 /Transactions on Machine Learning Research/, October 2025.
 

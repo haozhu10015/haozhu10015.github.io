@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{Solving inverse problem for multi-armed bandits via convex optimization}
-
-== Solving inverse problem for multi-armed bandits via convex optimization
-
-/H. Zhu and J. Boedecker/
+# jemdoc: addcss{/css/papers.css}
+= Solving inverse problem for multi-armed bandits via convex optimization
+H. Zhu and J. Boedecker
 
 /Manuscript/, January 2025.
 

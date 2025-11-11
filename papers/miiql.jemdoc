@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{Multi-intention inverse Q-learning for interpretable behavior representation}
-
-== Multi-intention inverse Q-learning for interpretable behavior representation
-
-/H. Zhu, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker/
+# jemdoc: addcss{/css/papers.css}
+= Multi-intention inverse Q-learning for interpretable behavior representation
+H. Zhu, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker
 
 /Transactions on Machine Learning Research/, September 2024.
 

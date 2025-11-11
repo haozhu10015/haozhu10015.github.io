@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{The hydrogen bonding network involved Arg59 in human protoporphyrinogen IX oxidase is essential for enzyme activity}
-
-== The hydrogen bonding network involved Arg59 in human protoporphyrinogen IX oxidase is essential for enzyme activity
-
-/B. Wang, Z. Zhang, H. Zhu, C. Niu, X. Wen and Z. Xi/
+# jemdoc: addcss{/css/papers.css}
+= The hydrogen bonding network involved Arg59 in human protoporphyrinogen IX oxidase is essential for enzyme activity
+B. Wang, Z. Zhang, H. Zhu, C. Niu, X. Wen and Z. Xi
 
 /Biochemical and Biophysical Research Communications/, 557, 20-25, 2023.
 

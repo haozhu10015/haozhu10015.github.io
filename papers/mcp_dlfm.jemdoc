@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{Multi-convex programming for discrete latent factor models prototyping}
-
-== Multi-convex programming for discrete latent factor models prototyping
-
-/H. Zhu, S. Yan, J. Hoffmann, and J. Boedecker/
+# jemdoc: addcss{/css/papers.css}
+= Multi-convex programming for discrete latent factor models prototyping
+H. Zhu, S. Yan, J. Hoffmann, and J. Boedecker
 
 /Manuscript/, April 2025.
 

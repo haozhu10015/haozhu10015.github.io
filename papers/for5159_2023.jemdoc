@@ -1,9 +1,7 @@
 # jemdoc: menu{MENU}{}{../}
-# jemdoc: title{Inverse Q-learning as a tool to investigate behavior and its neural correlates}
-
-== Inverse Q-learning as a tool to investigate behavior and its neural correlates
-
-/J. Boedecker and H. Zhu/
+# jemdoc: addcss{/css/papers.css}
+= Inverse Q-learning as a tool to investigate behavior and its neural correlates
+J. Boedecker and H. Zhu
 
 (alphabetical author order)
 
