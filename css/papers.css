@@ -2,6 +2,14 @@ h1 {
 	font-size: 125%;
 }
 
+h2 {
+	font-size: 110%;
+}
+
+h3 {
+	font-size: 100%;
+}
+
 div#toptitle h1, #layout-content div#toptitle h1 {
 	margin-top: 0.5em;
 	margin-bottom: 0.3em;
