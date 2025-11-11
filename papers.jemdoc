@@ -14,41 +14,44 @@ Papers are listed below by year of submission before they are published, or year
 
 == 2025
 
+# : {[/papers/cvxopt_gfm_workshop.html Convex optimization and generalized factor models workshop]}
+# H. Zhu and J. Boedecker
+
 : {[/papers/dbcp.html Disciplined biconvex programming]}
-_H. Zhu_ and J. Boedecker
+H. Zhu and J. Boedecker
 
 : {[/papers/fit_rl_mab.html Fitting reinforcement learning model to behavioral data under bandits]}
-_H. Zhu_, J. Hoffmann, B. Zhang, and J. Boedecker
+H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker
 
 : {[/papers/constr_rl_sm_log.html Constrained reinforcement learning with smoothed log barrier function]}
-B. Zhang, Y. Zhang, _H. Zhu_, S. Yan, T. Brox, and J. Boedecker
+B. Zhang, Y. Zhang, H. Zhu, S. Yan, T. Brox, and J. Boedecker
 
 : {[/papers/mcp_dlfm.html Multi-convex programming for discrete latent factor models prototyping]}
-_H. Zhu_, S. Yan, J. Hoffmann, and J. Boedecker
+H. Zhu, S. Yan, J. Hoffmann, and J. Boedecker
 
 : {[/papers/sleep_memory_system.html Sleep resolves competition between explicit and implicit memory systems]}
-K. Kleespies, P. Paulus, _H. Zhu_, F. Pargent, M. Jakob, J. Werle, M. Czisch, J. Boedecker, S. Gais, and M. Schoenauer
+K. Kleespies, P. Paulus, H. Zhu, F. Pargent, M. Jakob, J. Werle, M. Czisch, J. Boedecker, S. Gais, and M. Schoenauer
 
 : {[/papers/cvx_imab.html Solving inverse problem for multi-armed bandits via convex optimization]}
-_H. Zhu_ and J. Boedecker
+H. Zhu and J. Boedecker
 
 == 2024
 
 : {[/papers/cvx_irl.html Inverse reinforcement learning via convex optimization]}
-_H. Zhu_, Y. Zhang, and J. Boedecker
+H. Zhu, Y. Zhang, and J. Boedecker
 
 : {[/papers/bcf2024miirl.html Inverse reinforcement learning in animal behavior characterization]}
-J. Boedecker and _H. Zhu_
+J. Boedecker and H. Zhu
 
 == 2023
 
 : {[/papers/miiql.html Multi-intention inverse Q-learning for interpretable behavior representation]}
-_H. Zhu_, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker
+H. Zhu, B. De La Crompe, G. Kalweit, A. Schneider, M. Kalweit, I. Diester, and J. Boedecker
 
 : {[/papers/for5159_2023.html Inverse Q-learning as a tool to investigate behavior and its neural correlates]}
-J. Boedecker and _H. Zhu_
+J. Boedecker and H. Zhu
 
 == 2021
 
 :{[/papers/arg59_hppo.html The hydrogen bonding network involved Arg59 in human protoporphyrinogen IX oxidase is essential for enzyme activity]}
-B. Wang, Z. Zhang, _H. Zhu_, C. Niu, X. Wen and Z. Xi
+B. Wang, Z. Zhang, H. Zhu, C. Niu, X. Wen and Z. Xi
