@@ -12,3 +12,4 @@ Some older software I developed may still be available under my personal GitHub 
 - [https://github.com/nrgrp/dbcp +dbcp+]: a CVXPY extension for biconvex programming
 - [https://github.com/nrgrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in Python
 - [https://github.com/nrgrp/rlfit +rlfit+]: a Python package for fitting reinforcement learning models to behavior data under multi-armed bandits
+- [https://github.com/nrgrp/saferl-lib +saferl-lib+]: a toolkit for constrained reinforcement learning and safe reinforcement learning research
