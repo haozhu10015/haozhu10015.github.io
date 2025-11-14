@@ -5,7 +5,15 @@ H. Zhu and J. Boedecker
 
 Materials for a workshop on convex optimization and generalized factor models.
 
-== Lecture slides
+To run the companion notebooks, it is recommended to clone our [https://github.com/nrgrp/cvxopt_gfm_workshop GitHub repository], install the dependencies, and start a marimo notebook server on your own device.\n
+If this does not work for you, you can use the link provided below to run the notebooks in [https://molab.marimo.io/notebooks molab].
+
+== Lecture slides and Python notebooks
+
+- Workshop overview
+- [../pdf/cvxopt_gfm_workshop/intro_python.pdf Introduction to Python]
+    -- [https://molab.marimo.io/notebooks/nb_wVj37yphhaypfovfcCSXon Companion notebook]
+- Exercises
 
 == Additional materials
 
@@ -18,5 +26,8 @@ Many other useful materials available at [https://web.stanford.edu/~boyd/ web.st
 
 == Software
 
-- [https://www.cvxpy.org/ +CVXPY+]
-- [https://github.com/nrgrp/dbcp +dbcp+]
+- [https://www.cvxpy.org/ +CVXPY+] (Python)
+- [https://cvxr.com/cvx/ +CVX+] (MATLAB)
+- [https://cvxr.rbind.io/ +CVXR+] (R)
+- [https://jump.dev/Convex.jl/stable/ +Convex.jl+] (Julia)
+- [https://github.com/nrgrp/dbcp +dbcp+]: CVXPY extension for biconvex problems
