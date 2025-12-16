@@ -1,11 +1,11 @@
-# jemdoc: menu{MENU}{biography.html}
+# jemdoc: menu{MENU}{books.html}
 = Hao Zhu --- Books & Notes
 [https://www.informatik.uni-freiburg.de/ Department of Computer Science], [https://uni-freiburg.de/ University of Freiburg]
 
-== Generalized Factor Models
+== Disciplined Machine Learning
 ~~~
-{}{img_left}{img/gfmcover.png}{GFM book cover}{150px}{}{}
-[books/gfmbook.html /Generalized Factor Models/]\n
+{}{img_left}{img/dmlcover.png}{DML book cover}{150px}{}{}
+[books/dmlbook.html /Disciplined Machine Learning/]\n
 [https://haozhu10015.github.io Hao Zhu]
 and
 [https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Joschka Boedecker]\n\n
