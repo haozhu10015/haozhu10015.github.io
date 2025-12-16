@@ -1,17 +1,17 @@
 # jemdoc: menu{MENU}{}{../}
 # jemdoc: addcss{/css/papers.css}
-= Convex Optimization and Generalized Factor Models Workshop
+= Disciplined Machine Learning Workshop
 H. Zhu and J. Boedecker
 
-Materials for a workshop on convex optimization and generalized factor models.
+Materials for a workshop on disciplined machine learning.
 
-To run the companion notebooks, it is recommended to clone our [https://github.com/nrgrp/cvxopt_gfm_workshop GitHub repository], install the dependencies, and start a marimo notebook server on your own device.\n
+To run the companion notebooks, it is recommended to clone our [https://github.com/nrgrp/dml_workshop GitHub repository], install the dependencies, and start a marimo notebook server on your own device.\n
 If this does not work for you, you can use the link provided below to run the notebooks in [https://molab.marimo.io/notebooks molab].
 
 == Lecture slides and Python notebooks
 
 - Workshop overview
-- [../pdf/cvxopt_gfm_workshop/intro_python.pdf Introduction to Python]
+- [../pdf/dml_workshop/intro_python.pdf Introduction to Python]
     -- [https://molab.marimo.io/notebooks/nb_wVj37yphhaypfovfcCSXon Companion notebook]
 - Exercises
 
@@ -31,3 +31,4 @@ Many other useful materials available at [https://web.stanford.edu/~boyd/ web.st
 - [https://cvxr.rbind.io/ +CVXR+] (R)
 - [https://jump.dev/Convex.jl/stable/ +Convex.jl+] (Julia)
 - [https://github.com/nrgrp/dbcp +dbcp+]: CVXPY extension for biconvex problems
+- [https://github.com/cvxgrp/DNLP +dnlp+]: CVXPY interface of [https://coin-or.github.io/Ipopt Ipopt] for nonlinear programming
