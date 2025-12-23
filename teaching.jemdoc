@@ -4,8 +4,9 @@
 
 == Current classes
 
-- [./teaching/pgm.html 1228: Probabilistic Graphical Models]
+- [./teaching/pgm.html 1228: Probabilistic Graphical Models]: This course was developed by me in 2024, and since that taught by Prof. Joschka Boedecker and me every summer semester.
 
 == Not so recent classes
 
-- [./teaching/realalys.html Real Analysis]: This course has some good material in it, but is no longer taught.
+- [./teaching/realalys.html Real Analysis]: This course was initially developed for some basic introduction on real analysis, as a starting point for reading and writing proper math documents.
+    There is some good material in it, but the course is no longer taught.
