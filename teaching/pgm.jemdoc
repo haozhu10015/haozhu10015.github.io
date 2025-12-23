@@ -19,14 +19,14 @@ A brief content about the topics of the course can be found below.
 
 == Textbooks
 
-- [../pdf/pgm_course/pgm_notes.pdf Probabilistic Graphical Models: Lecture notes and exercises]
+- [../pdf/pgm_course/pgm_notes.pdf /Probabilistic Graphical Models: Lecture notes and exercises/]
 
 We will use the provided lecture notes as the official textbook of this course, which are based on the following books.
 
-- [https://link.springer.com/book/10.1007/978-3-030-61943-5 Probabilistic Graphical Models: Principles and Applications (2nd edition)], Luis Enrique Sucar (2021)
-- [http://bayes.cs.ucla.edu/BOOK-2K Causality (2nd edition)], Judea Pearl (2009)
-- [https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models Probabilistic Graphical Models: Principles and Techniques], Daphne Koller and Nir Friedman (2009)
-- [https://probml.github.io/pml-book/book2.html Probabilistic Machine Learning: Advanced Topics], Kevin P. Murphy (2023)
+- [https://link.springer.com/book/10.1007/978-3-030-61943-5 /Probabilistic Graphical Models: Principles and Applications (2nd edition)/], Luis Enrique Sucar (2021)
+- [http://bayes.cs.ucla.edu/BOOK-2K /Causality (2nd edition)/], Judea Pearl (2009)
+- [https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models /Probabilistic Graphical Models: Principles and Techniques/], Daphne Koller and Nir Friedman (2009)
+- [https://probml.github.io/pml-book/book2.html /Probabilistic Machine Learning: Advanced Topics/], Kevin P. Murphy (2023)
 
 == Prerequisites
 
