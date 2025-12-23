@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{teaching.html}
+= Hao Zhu --- Teaching
+[https://www.informatik.uni-freiburg.de/ Department of Computer Science], [https://uni-freiburg.de/ University of Freiburg]
+
+== Current classes
+
+- [./teaching/pgm.html 1228: Probabilistic Graphical Models]
+
+== Not so recent classes
+
+- [./teaching/realalys.html Real Analysis]: This course has some good material in it, but is no longer taught.
