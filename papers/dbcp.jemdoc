@@ -7,7 +7,8 @@ H. Zhu and J. Boedecker
 
 - [../pdf/dbcp/dbcp.pdf Current version]
 - [https://doi.org/10.48550/arXiv.2511.01813 arXiv entry]
-- [../pdf/dbcp/dbcp_slides.pdf Slides]
+- [../pdf/dbcp/dbcp_slides.pdf Original slides for an internal seminar]
+- [../pdf/dbcp/dbcp_cvxpy_workshop.pdf Slides used at the CVXPY workshop 2026]
 - [https://github.com/nrgrp/dbcp +dbcp+ package code]
 
 We introduce disciplined biconvex programming (DBCP), a modeling framework for specifying and solving biconvex optimization problems.
