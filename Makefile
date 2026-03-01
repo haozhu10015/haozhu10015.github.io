@@ -31,7 +31,7 @@ jemdoc: ## generate all jemdoc pages
 update: ## compile only new or modified jemdoc files
 	$(call ensure,jemdoc-rs,cargo install --git $(JEMDOC_RS_REPO))
 	@git add *.jemdoc */*.jemdoc
-	@for f in $(shell git diff --name-only HEAD | grep '\.jemdoc$$'); do \
+	@for f in $$(git diff --name-only HEAD -- '*.jemdoc'; git diff --cached --name-only --diff-filter=A -- '*.jemdoc') ; do \
 		if [ -f "$$f" ]; then \
 			printf "$(BLUE)Compiling $$f...$(RESET)\n"; \
 			jemdoc-rs -c $(CONF) "$$f"; \
