@@ -1,17 +1,22 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="jemdoc-rs, see https://github.com/haozhu10015/jemdoc-rs" />
 <link rel="stylesheet" href="/css/jemdoc.css" type="text/css" />
 <title>Real Analysis</title>
 <!-- MathJax -->
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-	  TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['\\[','\\]']],
+    tags: 'ams'
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
 </script>
 <!-- End MathJax -->
 </head>
@@ -20,7 +25,7 @@ MathJax.Hub.Config({
 <div id="layout-content">
 <div id="toptitle">
 <h1>Real Analysis</h1>
-<div id="subtitle"><a href="https://haozhu10015.github.io" target=&ldquo;blank&rdquo;>Hao Zhu</a>, <a href="https://uni-freiburg.de/" target=&ldquo;blank&rdquo;>University of Freiburg</a>
+<div id="subtitle"><a href="https://haozhu10015.github.io" target="_blank">Hao Zhu</a>, <a href="https://uni-freiburg.de/" target="_blank">University of Freiburg</a>
 </div>
 </div>
 <p>This course was originally developed by me, but is no longer taught.
@@ -35,48 +40,48 @@ Continuity, differentiability, and Riemann integral of single variable functions
 Sequences of functions and interchange of limit operations.
 Metric spaces, topology, and convergence properties.
 </p>
-<p>The material of this course was developed based on the book <a href="https://www.jirka.org/ra" target=&ldquo;blank&rdquo;><i>Basic Analysis: Introduction to Real Analysis</i></a> by Jiří Lebl, and the course <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020" target=&ldquo;blank&rdquo;>18.100A</a> provided by MIT.
+<p>The material of this course was developed based on the book <a href="https://www.jirka.org/ra" target="_blank"><i>Basic Analysis: Introduction to Real Analysis</i></a> by Jiří Lebl, and the course <a href="https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020" target="_blank">18.100A</a> provided by MIT.
 </p>
 <h2>Lecture slides</h2>
 <ol>
-<li><p><a href="../pdf/realalys_course/ch1.pdf" target=&ldquo;blank&rdquo;>Basic set theory</a>
+<li><p><a href="../pdf/realalys_course/ch1.pdf" target="_blank">Basic set theory</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch2.pdf" target=&ldquo;blank&rdquo;>Real numbers</a>
+<li><p><a href="../pdf/realalys_course/ch2.pdf" target="_blank">Real numbers</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch3.pdf" target=&ldquo;blank&rdquo;>Sequences</a>
+<li><p><a href="../pdf/realalys_course/ch3.pdf" target="_blank">Sequences</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch4.pdf" target=&ldquo;blank&rdquo;>Series</a>
+<li><p><a href="../pdf/realalys_course/ch4.pdf" target="_blank">Series</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch5.pdf" target=&ldquo;blank&rdquo;>Continuous functions</a>
+<li><p><a href="../pdf/realalys_course/ch5.pdf" target="_blank">Continuous functions</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch6.pdf" target=&ldquo;blank&rdquo;>Derivative</a>
+<li><p><a href="../pdf/realalys_course/ch6.pdf" target="_blank">Derivative</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch7.pdf" target=&ldquo;blank&rdquo;>Riemann integral</a>
+<li><p><a href="../pdf/realalys_course/ch7.pdf" target="_blank">Riemann integral</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch8.pdf" target=&ldquo;blank&rdquo;>Sequences of functions</a>
+<li><p><a href="../pdf/realalys_course/ch8.pdf" target="_blank">Sequences of functions</a>
 </p>
 </li>
-<li><p><a href="../pdf/realalys_course/ch9.pdf" target=&ldquo;blank&rdquo;>Metric spaces</a>
+<li><p><a href="../pdf/realalys_course/ch9.pdf" target="_blank">Metric spaces</a>
 </p>
 </li>
 </ol>
-<p>The full set of slides is available as one PDF file <a href="../pdf/realalys_course/raslides.pdf" target=&ldquo;blank&rdquo;>here</a>.
+<p>The full set of slides is available as one PDF file <a href="../pdf/realalys_course/raslides.pdf" target="_blank">here</a>.
 </p>
-<p>The original slides are available <a href="../pdf/realalys_course/raslides_original.pdf" target=&ldquo;blank&rdquo;>here</a>.
+<p>The original slides are available <a href="../pdf/realalys_course/raslides_original.pdf" target="_blank">here</a>.
 </p>
 <h2>Course reader</h2>
-<p>The <a href="../pdf/realalys_course/rareader.pdf" target=&ldquo;blank&rdquo;>course reader</a> is one PDF file consisting of a cover page together with the lecture slides (in 2up format).
+<p>The <a href="../pdf/realalys_course/rareader.pdf" target="_blank">course reader</a> is one PDF file consisting of a cover page together with the lecture slides (in 2up format).
 </p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2025-12-23 23:10:15 CET, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2026-03-01 22:42:57 CET, by <a href="https://github.com/haozhu10015/jemdoc-rs" target="_blank">jemdoc-rs</a>.
 </div>
 </div>
 </div>

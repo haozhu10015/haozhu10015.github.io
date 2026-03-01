@@ -1,18 +1,23 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="generator" content="jemdoc-rs, see https://github.com/haozhu10015/jemdoc-rs" />
 <link rel="stylesheet" href="/css/jemdoc.css" type="text/css" />
 <link rel="stylesheet" href="/css/papers.css" type="text/css" />
 <title>Constrained Reinforcement Learning with Smoothed Log Barrier Function</title>
 <!-- MathJax -->
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-	  TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['\\[','\\]']],
+    tags: 'ams'
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
 </script>
 <!-- End MathJax -->
 </head>
@@ -40,13 +45,13 @@ MathJax.Hub.Config({
 <p><i>Transactions on Machine Learning Research</i>, October 2025.
 </p>
 <ul>
-<li><p><a href="../pdf/constr_rl_sm_log.pdf" target=&ldquo;blank&rdquo;>Final version</a>
+<li><p><a href="../pdf/constr_rl_sm_log.pdf" target="_blank">Final version</a>
 </p>
 </li>
-<li><p><a href="https://openreview.net/forum?id=Amh95oURaE" target=&ldquo;blank&rdquo;>OpenReview entry</a>
+<li><p><a href="https://openreview.net/forum?id=Amh95oURaE" target="_blank">OpenReview entry</a>
 </p>
 </li>
-<li><p><a href="https://github.com/nrgrp/saferl-lib" target=&ldquo;blank&rdquo;>Code</a>
+<li><p><a href="https://github.com/nrgrp/saferl-lib" target="_blank">Code</a>
 </p>
 </li>
 </ul>
@@ -56,10 +61,11 @@ To overcome these limitations, we propose CSAC-LB (Constrained Soft Actor-Critic
 CSAC-LB integrates a linear smoothed log barrier function into the actor’s objective, providing a numerically stable, non-vanishing gradient that enables the agent to quickly recover from unsafe states while avoiding the instability of traditional interior-point methods.
 To further enhance safety and mitigate the underestimation of constraint violations, we employ a pessimistic double-critic architecture for the cost function, taking the maximum of two cost Q-networks to conservatively guide the policy.
 Through extensive experiments on challenging constrained control tasks, we demonstrate that CSAC-LB significantly outperforms baselines by consistently achieving high returns while strictly adhering to safety constraints.
-Our results establish CSAC-LB as a robust and stable solution for applying RL to safety-critical domains.</p>
+Our results establish CSAC-LB as a robust and stable solution for applying RL to safety-critical domains.
+</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2025-12-23 14:30:22 CET, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2026-03-01 22:42:57 CET, by <a href="https://github.com/haozhu10015/jemdoc-rs" target="_blank">jemdoc-rs</a>.
 </div>
 </div>
 </td>
