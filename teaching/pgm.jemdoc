@@ -20,18 +20,39 @@ A brief content about the topics of the course can be found below.
 . [../pdf/pgm_course/ch5.pdf Markov decision problems]
 . [../pdf/pgm_course/ch6.pdf Control as probabilistic inference]
 
-== Textbooks
+The old set of lecture notes, used until 2025, are available [../pdf/pgm_course/pgm_notes.pdf here].
 
-- [../pdf/pgm_course/pgm_notes.pdf /Probabilistic Graphical Models: Lecture notes and exercises/]
+== Textbooks and references
 
-We will use the provided lecture notes as the official textbook of this course, which are based on the following books.
+There is no textbook. Everything we'll use will be posted on the this webpage in pdf format.
 
-- [https://link.springer.com/book/10.1007/978-3-030-61943-5 /Probabilistic Graphical Models: Principles and Applications (2nd edition)/], Luis Enrique Sucar (2021)
-- [http://bayes.cs.ucla.edu/BOOK-2K /Causality (2nd edition)/], Judea Pearl (2009)
+If you’d like to consult some books, we listed some below.
+
 - [https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models /Probabilistic Graphical Models: Principles and Techniques/], Daphne Koller and Nir Friedman (2009)
 - [https://probml.github.io/pml-book/book2.html /Probabilistic Machine Learning: Advanced Topics/], Kevin P. Murphy (2023)
+- [https://link.springer.com/book/10.1007/978-3-030-61943-5 /Probabilistic Graphical Models: Principles and Applications (2nd edition)/], Luis Enrique Sucar (2021)
+- [http://bayes.cs.ucla.edu/BOOK-2K /Causality (2nd edition)/], Judea Pearl (2009)
+- [https://bayes.cs.ucla.edu/PRIMER/ /Causal Inference in Statistics: A Primer/], Judea Pearl (2016)
 
 == Prerequisites
 
-Good knowledge of linear algebra and probability.
+There are no strict prerequisites, but good knowledge of probability would significantly reduce the learning curve.
 Exposure to graph theory, optimization, and reinforcement learning helpful but not required.
+
+== Final exam
+
+The final exam is a 90 minutes open-book exam.
+You are allowed to bring one cheat sheet subject to the following requirements:
+
+- The cheat sheet could be (at most) one double sided A4 paper.
+- The content must be hand-written.
+- Yes, you could write digitally and then print, but a magnifier is not allowed in the exam.
+
+No other materials (eg., textbooks) are allowed in the exam.
+We will confirm if a calculator is strictly necessary closer to the exam date, but you can nevertheless bring one as you like.
+
+=== Some old exams
+
+The following final exams from the previous years can be used for practice.
+
+- Winter 2025/26 [../pdf/pgm_course/exams/ws2025.pdf final exam] and [../pdf/pgm_course/exams/ws2025_solution.pdf solutions].
