@@ -12,16 +12,18 @@
 
 Papers are listed below by year of submission before they are published, or year of publication.
 
-== 2025
+== 2026
 
-# : {[/papers/cvxopt_gfm_workshop.html Convex optimization and generalized factor models workshop]}
+# : {[/papers/dml_workshop.html Disciplined machine learning workshop]}
 # H. Zhu and J. Boedecker
-
-: {[/papers/dbcp.html Disciplined biconvex programming]}
-H. Zhu and J. Boedecker
 
 : {[/papers/fit_rl_mab.html Fitting reinforcement learning model to behavioral data under bandits]}
 H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker
+
+== 2025
+
+: {[/papers/dbcp.html Disciplined biconvex programming]}
+H. Zhu and J. Boedecker
 
 : {[/papers/constr_rl_sm_log.html Constrained reinforcement learning with smoothed log barrier function]}
 B. Zhang, Y. Zhang, H. Zhu, S. Yan, T. Brox, and J. Boedecker
