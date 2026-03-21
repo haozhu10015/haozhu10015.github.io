@@ -20,6 +20,9 @@ Papers are listed below by year of submission before they are published, or year
 : {[/papers/fit_rl_mab.html Fitting reinforcement learning model to behavioral data under bandits]}
 H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker
 
+: {[/papers/spec_align_fb_rep.html Spectral alignment in forward–backward representations via temporal abstraction]}
+S. M. B. Azad, J. Hoffmann, I. Nematollahi, H. Zhu, A. Valada, and J. Boedecker
+
 == 2025
 
 : {[/papers/dbcp.html Disciplined biconvex programming]}

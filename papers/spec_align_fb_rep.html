@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="generator" content="jemdoc-rs, see https://github.com/haozhu10015/jemdoc-rs" />
+<link rel="stylesheet" href="/css/jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="/css/papers.css" type="text/css" />
+<title>Spectral Alignment in Forward–Backward Representations via Temporal Abstraction</title>
+<!-- MathJax -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['\\[','\\]']],
+    tags: 'ams'
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
+</script>
+<!-- End MathJax -->
+</head>
+<link rel="icon" href="/img/zhicon.png" type="image/x-icon" />
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Hao Zhu</div>
+<div class="menu-item"><a href="../index.html">Home</a></div>
+<div class="menu-item"><a href="../biography.html">Biography</a></div>
+<div class="menu-item"><a href="../teaching.html">Teaching</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="../books.html">Books</a></div>
+<div class="menu-item"><a href="../papers.html">Papers</a></div>
+<div class="menu-item"><a href="../software.html">Software</a></div>
+<div class="menu-category">Classes</div>
+<div class="menu-item"><a href="../teaching/pgm.html">1228</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Spectral Alignment in Forward–Backward Representations via Temporal Abstraction</h1>
+<div id="subtitle">S. M. B. Azad, J. Hoffmann, I. Nematollahi, H. Zhu, A. Valada, and J. Boedecker
+</div>
+</div>
+<p><i>Manuscript</i>, March 2026.
+</p>
+<ul>
+<li><p><a href="../pdf/spec_align_fb_rep.pdf" target="_blank">Current version</a>
+</p>
+</li>
+</ul>
+<p>Forward-backward (FB) representations provide a powerful framework for learning the successor representation (SR) in continuous spaces by enforcing a low-rank factorization. 
+However, a fundamental spectral mismatch often exists between the high-rank transition dynamics of continuous environments and the low-rank bottleneck of the FB architecture, making accurate low-rank representation learning difficult.
+In this work, we analyze temporal abstraction as a mechanism to mitigate this mismatch.
+By characterizing the spectral properties of the transition operator, we show that temporal abstraction acts as a low-pass filter that suppresses high-frequency spectral components. 
+This suppression reduces the effective rank of the induced SR while preserving a formal bound on the resulting value function error.
+Empirically, we show that this alignment is a key factor for stable FB learning, particularly at high discount factors where bootstrapping becomes error-prone. 
+Our results identify temporal abstraction as a principled mechanism for shaping the spectral structure of the underlying Markov decision process and enabling effective long-horizon representations in continuous control.
+</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2026-03-21 13:20:35 CET, by <a href="https://github.com/haozhu10015/jemdoc-rs" target="_blank">jemdoc-rs</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
