@@ -6,6 +6,7 @@ S. M. B. Azad, J. Hoffmann, I. Nematollahi, H. Zhu, A. Valada, and J. Boedecker
 /Manuscript/, March 2026.
 
 - [../pdf/spec_align_fb_rep.pdf Current version]
+- [https://doi.org/10.48550/arXiv.2603.20103 arXiv entry]
 
 Forward-backward (FB) representations provide a powerful framework for learning the successor representation (SR) in continuous spaces by enforcing a low-rank factorization. 
 However, a fundamental spectral mismatch often exists between the high-rank transition dynamics of continuous environments and the low-rank bottleneck of the FB architecture, making accurate low-rank representation learning difficult.
