@@ -3,10 +3,12 @@
 = Fitting Reinforcement Learning Model to Behavioral Data under Bandits
 H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker
 
-To appear, /Frontiers in Applied Mathematics and Statistics/, March 2026.
+/Frontiers in Applied Mathematics and Statistics/, March 2026.
 
-- [../pdf/fit_rl_mab.pdf Manuscript]
+- [../pdf/fit_rl_mab/fit_rl_mab.pdf Manuscript]
+- [../pdf/fit_rl_mab/fit_rl_mab_fams.pdf Final version]
 - [https://doi.org/10.48550/arXiv.2511.04454 arXiv entry]
+- [https://doi.org/10.3389/fams.2026.1762084 Frontiers entry]
 - [https://github.com/nrgrp/rlfit Python package]
 - [https://github.com/nrgrp/fit_rl_mab Experiments code]
 
