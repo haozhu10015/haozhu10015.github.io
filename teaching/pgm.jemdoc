@@ -4,25 +4,29 @@
 
 This page was created for posting some useful material for the course /Probabilistic Graphical Models/ developed and taught by Prof. Joschka Boedecker and me starting from 2024.
 
-We have decided to rewrite some of the materials here from the summer of 2026, and to add more topics.
+== Announcements
+- Welcome to 1228: Probabilistic Graphical Models, Summer semester 2026.
+- This course will be taught by Joschka Boedecker, Shengchao Yan, and Hao Zhu.
+- Lectures are Tuesdays 16:15--17:45, Building 101, SR 01-016/18. The first lecture is 21 April.
+- Exercise sessions will be announced as the semester progresses.
+- This webpage contains basic course information; up to date and detailed information will be posted on ILIAS.
+
+== Course materials
+These slides and notes will possibly change and get updated throughout the teaching semester.
+In particular, we have decided to rewrite some of the materials here from the summer of 2026, and to add more topics.
 So you might want to check this webpage occasionally to get updated.
 
-== Catalog description
-
-The lecture deals with methods of Probabilistic Graphical Models that constitute an important class of machine learning algorithms.
-A brief content about the topics of the course can be found below.
-
-. [../pdf/pgm_course/ch1.pdf Introduction]
-. [../pdf/pgm_course/ch2.pdf Bayesian classifiers]
-. [../pdf/pgm_course/ch3.pdf Markov models]
-. [../pdf/pgm_course/ch4.pdf Bayesian networks]
-. [../pdf/pgm_course/a1.pdf Inference with Monte Carlo methods]
-. [../pdf/pgm_course/ch5.pdf Markov decision problems]
-. [../pdf/pgm_course/ch6.pdf Control as probabilistic inference]
+. Introduction \[[../pdf/pgm_course/ch1.pdf slides]\]
+. Bayesian classifiers \[[../pdf/pgm_course/ch2.pdf slides]\] \[[../pdf/pgm_course/notes/bayes_classifier.pdf notes]\]
+. Markov models \[[../pdf/pgm_course/ch3.pdf slides]\]
+. Bayesian networks \[[../pdf/pgm_course/ch4.pdf slides]\]
+. Inference with Monte Carlo methods \[[../pdf/pgm_course/a1.pdf slides]\]
+. Markov decision problems \[[../pdf/pgm_course/ch5.pdf slides]\]
+. Control as probabilistic inference \[[../pdf/pgm_course/ch6.pdf slides]\]
 
 === Support notes
-
 - [../pdf/pgm_course/notes/math_bg.pdf Mathematical background]
+- [../pdf/pgm_course/notes/notation.pdf Notation]
 
 The old set of lecture notes, used until 2025, are available [../pdf/pgm_course/pgm_notes.pdf here].
 
