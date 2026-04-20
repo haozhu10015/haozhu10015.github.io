@@ -16,9 +16,9 @@ These slides and notes will possibly change and get updated throughout the teach
 In particular, we have decided to rewrite some of the materials here from the summer of 2026, and to add more topics.
 So you might want to check this webpage occasionally to get updated.
 
-. Introduction \[[../pdf/pgm_course/ch1.pdf slides]\]
-. Bayesian classifiers \[[../pdf/pgm_course/ch2.pdf slides]\] \[[../pdf/pgm_course/notes/bayes_classifier.pdf notes]\]
-. Markov models \[[../pdf/pgm_course/ch3.pdf slides]\]
+. Introduction \[[../pdf/pgm_course/slides/1_intro.pdf slides]\]
+. Bayesian classifiers \[[../pdf/pgm_course/slides/2_bayes_cls.pdf slides]\] \[[../pdf/pgm_course/notes/bayes_cls.pdf notes]\]
+. Markov models \[[../pdf/pgm_course/slides/3_mkv_models.pdf slides]\] \[[../pdf/pgm_course/notes/mkv_models.pdf notes]\]
 . Bayesian networks \[[../pdf/pgm_course/ch4.pdf slides]\]
 . Inference with Monte Carlo methods \[[../pdf/pgm_course/a1.pdf slides]\]
 . Markov decision problems \[[../pdf/pgm_course/ch5.pdf slides]\]
