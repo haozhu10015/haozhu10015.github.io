@@ -9,8 +9,8 @@ H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker
 - [../pdf/fit_rl_mab/fit_rl_mab_fams.pdf Final version]
 - [https://doi.org/10.48550/arXiv.2511.04454 arXiv entry]
 - [https://doi.org/10.3389/fams.2026.1762084 Frontiers entry]
-- [https://github.com/nrgrp/rlfit Python package]
-- [https://github.com/nrgrp/fit_rl_mab Experiments code]
+- [https://github.com/dxogrp/rlfit Python package]
+- [https://github.com/dxogrp/fit_rl_mab Experiments code]
 
 We consider the problem of fitting a reinforcement learning (RL) model to some given behavioral data under a multi-armed bandit environment.
 These models have received much attention in recent years for characterizing human and animal decision making behavior.

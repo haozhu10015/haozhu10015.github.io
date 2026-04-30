@@ -3,21 +3,22 @@
 [https://www.informatik.uni-freiburg.de/ Department of Computer Science], [https://uni-freiburg.de/ University of Freiburg]
 
 
-Source for most of my projects is hosted on the [https://github.com/nrgrp Neurorobotics Group] GitHub site.
+Source for most of my recent projects is hosted on [https://github.com/dxogrp this GitHub site] .
 
-Some older software I developed may still be available under my personal GitHub account [https://github.com/haozhu10015 haozhu10015].
+Some older software which I was involved (e.g., during my PhD) may still be available under my personal GitHub site [https://github.com/haozhu10015 haozhu10015] and the [https://github.com/nrgrp Neurorobotics Group] GitHub site.
 
 == Recent software
 
-- [https://github.com/nrgrp/dbcp +dbcp+]: a CVXPY extension for biconvex programming
+- [https://github.com/dxogrp/dbcp +dbcp+]: a CVXPY extension for biconvex programming
+- [https://github.com/dxogrp/cvxgenrust +cvxgenrust+]: a Python package for generating Rust crates from parameterized CVXPY problems.
 - [https://github.com/haozhu10015/jemdoc-rs +jemdoc-rs+]: a Rust rewrite of jemdoc\+MathJax for creating websites
-- [https://github.com/nrgrp/rlfit +rlfit+]: a Python package for fitting reinforcement learning models to behavior data under multi-armed bandits
+- [https://github.com/dxogrp/rlfit +rlfit+]: a Python package for fitting reinforcement learning models to behavior data under multi-armed bandits
 - [https://github.com/cvxpy/cvxrust +cvxrust+]: a Rust implementation of disciplined convex programming
 - [https://github.com/nrgrp/saferl-lib +saferl-lib+]: a toolkit for constrained reinforcement learning and safe reinforcement learning research
+- [https://github.com/dxogrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in Python
 - [https://github.com/haozhu10015/latex-template +latex-template+]: LaTex templates for article, slides, book, and poster
 
 == Not so recent software
 
-- [https://github.com/nrgrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in Python
 - [https://github.com/nrgrp/cvx_irl +cvx_irl+]: for inverse reinforcement learning via convex optimization
 - [https://github.com/nrgrp/hiql +hiql+]: for hierarchical inverse Q-learning
