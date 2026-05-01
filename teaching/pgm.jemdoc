@@ -21,14 +21,14 @@ So you might want to check this webpage occasionally to get updated.
 . Markov models \[[../pdf/pgm_course/slides/3_mkv_models.pdf slides]\] \[[../pdf/pgm_course/notes/mkv_models.pdf notes]\]
 . Bayesian networks \[[../pdf/pgm_course/slides/4_bayes_net.pdf slides]\] \[[../pdf/pgm_course/notes/bayes_net.pdf notes]\]
 . Inference with Monte Carlo methods \[[../pdf/pgm_course/slides/5_monte_carlo.pdf slides]\] \[[../pdf/pgm_course/notes/monte_carlo.pdf notes]\]
-. Markov decision problems \[[../pdf/pgm_course/ch5.pdf slides]\]
-. Control as probabilistic inference \[[../pdf/pgm_course/ch6.pdf slides]\]
+. Markov decision problems \[[../pdf/pgm_course/slides/6_mdp.pdf slides]\] \[[../pdf/pgm_course/notes/mdp.pdf notes]\]
+. Control as probabilistic inference \[[../pdf/pgm_course/slides/7_prob_ctrl.pdf slides]\] \[[../pdf/pgm_course/notes/prob_ctrl.pdf notes]\]
 
 === Support notes
 - [../pdf/pgm_course/notes/math_bg.pdf Mathematical background]
 - [../pdf/pgm_course/notes/notation.pdf Notation]
 
-The old set of lecture notes, used until 2025, are available [../pdf/pgm_course/pgm_notes.pdf here].
+The old set of lecture notes, used until 2025, are available [../pdf/pgm_course/pgm_notes_origin.pdf here].
 
 == Textbooks and references
 
