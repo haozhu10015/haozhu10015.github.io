@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{}{../}
+# jemdoc: addcss{/css/papers.css}
+= Mechanisms of Premotor-Motor Cortex Interactions during Movement Initiation
+M. Alyahyay, J. J. Ammer, G. Kalweit, H. Zhu, A. Adzemovic, M. Kalweit, G. Karvat, A. Schneider, Y. Tong, M. D. Doebroessy, Z. Jaeckel, C. Akmese, A. Vlachos, J. Boedecker, and I. Diester
+
+To appear, /Cell Reports/, 2026.
+
+- [https://doi.org/10.1101/2023.01.20.524944 bioRXiv entry] (first manuscript)
+
+Preparing and initiating movements at the right time is critical for goal-directed behavior.
+Before movement execution, motor cortical areas exhibit preparatory activity which decreases from premotor to primary motor areas.
+During the shift from preparation to execution activity in neural state space transitions from movement-null to movement-potent dimensions.
+However, the circuit-level mechanisms underlying this shift remain unresolved.
+Here, we demonstrate that projections from the rat premotor cortex (rostral forelimb area, RFA) to the primary motor cortex (caudal forelimb area, CFA) encode primarily pre-movement activity.
+Optogenetic inhibition of these projections has behavioral effects comparable to inhibiting either RFA or CFA alone.
+During preparation, RFA projections enhance and suppress CFA neurons similarly, affecting activity along CFA's preparatory dimension.
+During movement, RFA's influence shifts predominantly to excitatory, aligning with CFA's movement-potent dimension.
+These results establish a mechanistic link between neural state-space concepts with underlying circuit mechanisms, providing an intuitive model for movement control.

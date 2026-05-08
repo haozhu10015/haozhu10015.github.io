@@ -16,6 +16,7 @@ Some older software which I was involved (e.g., during my PhD) may still be avai
 - [https://github.com/cvxpy/cvxrust +cvxrust+]: a Rust implementation of disciplined convex programming
 - [https://github.com/nrgrp/saferl-lib +saferl-lib+]: a toolkit for constrained reinforcement learning and safe reinforcement learning research
 - [https://github.com/dxogrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in Python
+- [https://github.com/dxogrp/foilx +foilx+]: a light LaTeX class package for generating slides
 - [https://github.com/haozhu10015/latex-template +latex-template+]: LaTex templates for article, slides, book, and poster
 
 == Not so recent software
