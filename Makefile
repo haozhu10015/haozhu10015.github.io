@@ -5,6 +5,8 @@ RESET := \033[0m
 
 CONF  := zhweb.conf
 JEMDOC_SRC := $(shell find . -name '*.jemdoc' -type f | sort | sed 's|^\./||')
+PREVIEW_HOST := 127.0.0.1
+PREVIEW_PORT := 8000
 
 .DEFAULT_GOAL := help
 
@@ -19,8 +21,8 @@ install: ## install all dependencies (requires Rust/Cargo)
 	@command -v cargo >/dev/null 2>&1 || { printf "cargo not found, install Rust first: https://rustup.rs\n"; exit 1; }
 	@printf "$(BLUE)Installing jemdoc-rs...$(RESET)\n"
 	@cargo install jemdoc-rs
-	@printf "$(BLUE)Installing simple-http-server...$(RESET)\n"
-	@cargo install simple-http-server
+	@printf "$(BLUE)Installing static-web-server...$(RESET)\n"
+	@cargo install static-web-server
 
 jemdoc: ## generate all jemdoc pages
 	$(call ensure,jemdoc-rs,cargo install jemdoc-rs)
@@ -39,9 +41,9 @@ update: ## compile only new or modified jemdoc files
 	@git reset -q
 
 preview: ## preview the webpage locally
-	$(call ensure,simple-http-server,cargo install simple-http-server)
-	@printf "$(BLUE)Starting local web server on http://127.0.0.1:8000...$(RESET)\n"
-	@simple-http-server -p 8000 --ip 127.0.0.1 -i .
+	$(call ensure,static-web-server,cargo install static-web-server)
+	@printf "$(BLUE)Starting local web server on http://$(PREVIEW_HOST):$(PREVIEW_PORT)...$(RESET)\n"
+	@static-web-server --host $(PREVIEW_HOST) --port $(PREVIEW_PORT) --root . --redirect-trailing-slash true
 
 clean: ## clean generated files and directories
 	@printf "$(BLUE)Cleaning project...$(RESET)\n"
