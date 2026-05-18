@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="generator" content="jemdoc-rs, see https://github.com/haozhu10015/jemdoc-rs" />
+<link rel="stylesheet" href="/css/jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="/css/papers.css" type="text/css" />
+<title>Probabilistic Recurrent Intention Switching Model</title>
+<!-- MathJax -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['\\[','\\]']],
+    tags: 'ams'
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
+</script>
+<!-- End MathJax -->
+</head>
+<link rel="icon" href="/img/zhicon.png" type="image/x-icon" />
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Hao Zhu</div>
+<div class="menu-item"><a href="../index.html">Home</a></div>
+<div class="menu-item"><a href="../biography.html">Biography</a></div>
+<div class="menu-item"><a href="../teaching.html">Teaching</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="../books.html">Books</a></div>
+<div class="menu-item"><a href="../papers.html">Papers</a></div>
+<div class="menu-item"><a href="../software.html">Software</a></div>
+<div class="menu-category">Classes</div>
+<div class="menu-item"><a href="../teaching/pgm.html">1228</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Probabilistic Recurrent Intention Switching Model</h1>
+<div id="subtitle">W. Sheng, H. Zhu, and J. Boedecker
+</div>
+</div>
+<p>Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode.
+Recent multi-intention IRL methods address this by segmenting trajectories, but model intention transitions as either a memoryless Markov chain or via manual state augmentation with a fixed history window.
+We propose the Probabilistic Recurrent Intention Switching Model (PRISM), which replaces both mechanisms with a lightweight recurrent network that maps observation history to a per-step intention distribution.
+We prove that the resulting EM objective decomposes exactly into independent per-intention reward subproblems, each solvable in closed form, yielding an \(\mathcal{O}(nK)\) E-step with no variational approximation.
+We evaluate PRISM on a non-Markovian gridworld, a mouse labyrinth, and BridgeData&nbsp;V2 robotic manipulation, the first large-scale robotic application of multi-intention IRL.
+Across all settings PRISM achieves the highest held-out log-likelihood while recovering nameable, temporally coherent intentions from unlabeled demonstrations, suggesting that discrete goal switching is present in both biological and artificial agents.
+</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2026-05-07 22:32:34 CEST, by <a href="https://github.com/haozhu10015/jemdoc-rs" target="_blank">jemdoc-rs</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>
