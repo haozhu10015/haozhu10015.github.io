@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{pgm.html}{../}
+# jemdoc: menu{MENU}{pgm/}{/}
 = 1228: Probabilistic Graphical Models
 [https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Prof. Joschka Boedecker] and [https://haozhu10015.github.io Hao Zhu], [https://uni-freiburg.de/ University of Freiburg]
 
@@ -16,19 +16,19 @@ These slides and notes will possibly change and get updated throughout the teach
 In particular, we have decided to rewrite some of the materials here from the summer of 2026, and to add more topics.
 So you might want to check this webpage occasionally to get updated.
 
-. Introduction \[[../pdf/pgm_course/slides/1_intro.pdf slides]\]
-. Bayesian classifiers \[[../pdf/pgm_course/slides/2_bayes_cls.pdf slides]\] \[[../pdf/pgm_course/notes/bayes_cls.pdf notes]\]
-. Markov models \[[../pdf/pgm_course/slides/3_mkv_models.pdf slides]\] \[[../pdf/pgm_course/notes/mkv_models.pdf notes]\]
-. Bayesian networks \[[../pdf/pgm_course/slides/4_bayes_net.pdf slides]\] \[[../pdf/pgm_course/notes/bayes_net.pdf notes]\]
-. Inference with Monte Carlo methods \[[../pdf/pgm_course/slides/5_monte_carlo.pdf slides]\] \[[../pdf/pgm_course/notes/monte_carlo.pdf notes]\]
-. Markov decision problems \[[../pdf/pgm_course/slides/6_mdp.pdf slides]\] \[[../pdf/pgm_course/notes/mdp.pdf notes]\]
-. Control as probabilistic inference \[[../pdf/pgm_course/slides/7_prob_ctrl.pdf slides]\] \[[../pdf/pgm_course/notes/prob_ctrl.pdf notes]\]
+. Introduction \[[slides/1_intro.pdf slides]\]
+. Bayesian classifiers \[[slides/2_bayes_cls.pdf slides]\] \[[notes/bayes_cls.pdf notes]\]
+. Markov models \[[slides/3_mkv_models.pdf slides]\] \[[notes/mkv_models.pdf notes]\]
+. Bayesian networks \[[slides/4_bayes_net.pdf slides]\] \[[notes/bayes_net.pdf notes]\]
+. Inference with Monte Carlo methods \[[slides/5_monte_carlo.pdf slides]\] \[[notes/monte_carlo.pdf notes]\]
+. Markov decision problems \[[slides/6_mdp.pdf slides]\] \[[notes/mdp.pdf notes]\]
+. Control as probabilistic inference \[[slides/7_prob_ctrl.pdf slides]\] \[[notes/prob_ctrl.pdf notes]\]
 
 === Support notes
-- [../pdf/pgm_course/notes/math_bg.pdf Mathematical background]
-- [../pdf/pgm_course/notes/notation.pdf Notation]
+- [notes/math_bg.pdf Mathematical background]
+- [notes/notation.pdf Notation]
 
-The old set of lecture notes, used until 2025, are available [../pdf/pgm_course/pgm_notes_origin.pdf here].
+The old set of lecture notes, used until 2025, are available [pgm_notes_origin.pdf here].
 
 == Textbooks and references
 
@@ -63,4 +63,4 @@ We will confirm if a calculator is strictly necessary closer to the exam date, b
 
 The following final exams from the previous years can be used for practice.
 
-- Winter 2025/26 [../pdf/pgm_course/exams/ws2025.pdf final exam] and [../pdf/pgm_course/exams/ws2025_solution.pdf solutions].
+- Winter 2025/26 [exams/ws2025.pdf final exam] and [exams/ws2025_solution.pdf solutions].

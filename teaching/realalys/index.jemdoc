@@ -17,20 +17,20 @@ The material of this course was developed based on the book [https://www.jirka.o
 
 == Lecture slides
 
-. [../pdf/realalys_course/ch1.pdf Basic set theory]
-. [../pdf/realalys_course/ch2.pdf Real numbers]
-. [../pdf/realalys_course/ch3.pdf Sequences]
-. [../pdf/realalys_course/ch4.pdf Series]
-. [../pdf/realalys_course/ch5.pdf Continuous functions]
-. [../pdf/realalys_course/ch6.pdf Derivative]
-. [../pdf/realalys_course/ch7.pdf Riemann integral]
-. [../pdf/realalys_course/ch8.pdf Sequences of functions]
-. [../pdf/realalys_course/ch9.pdf Metric spaces]
+. [slides/ch1.pdf Basic set theory]
+. [slides/ch2.pdf Real numbers]
+. [slides/ch3.pdf Sequences]
+. [slides/ch4.pdf Series]
+. [slides/ch5.pdf Continuous functions]
+. [slides/ch6.pdf Derivative]
+. [slides/ch7.pdf Riemann integral]
+. [slides/ch8.pdf Sequences of functions]
+. [slides/ch9.pdf Metric spaces]
 
-The full set of slides is available as one PDF file [../pdf/realalys_course/raslides.pdf here].
+The full set of slides is available as one PDF file [raslides.pdf here].
 
-The original slides are available [../pdf/realalys_course/raslides_original.pdf here].
+The original slides are available [raslides_original.pdf here].
 
 == Course reader
 
-The [../pdf/realalys_course/rareader.pdf course reader] is one PDF file consisting of a cover page together with the lecture slides (in 2up format).
+The [rareader.pdf course reader] is one PDF file consisting of a cover page together with the lecture slides (in 2up format).
