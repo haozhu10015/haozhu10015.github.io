@@ -4,8 +4,8 @@
 
 == Disciplined Machine Learning
 ~~~
-{}{img_left}{img/dmlcover.png}{DML book cover}{150px}{}{books/dmlbook.html}
-[books/dmlbook.html /Disciplined Machine Learning/]\n
+{}{img_left}{dmlbook/dmlcover.png}{DML book cover}{150px}{}{dmlbook/}
+[dmlbook/ /Disciplined Machine Learning/]\n
 [https://haozhu10015.github.io Hao Zhu]
 and
 [https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Joschka Boedecker]\n\n

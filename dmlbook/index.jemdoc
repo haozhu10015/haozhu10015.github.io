@@ -1,0 +1,37 @@
+= Disciplined Machine Learning --- Zhu and Boedecker
+
+~~~
+{}{img_left}{dmlcover.png}{DML book cover}{175px}{}{}
+/Disciplined Machine Learning/\n
+[https://haozhu10015.github.io Hao Zhu]
+and
+[https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Joschka Boedecker]\n\n
+Working draft, from November 10, 2025
+~~~
+
+\n
+
+This book is used as the textbook for our own course [https://haozhu10015.github.io/teaching/dml/ /Disciplined Machine Learning/] at the University of Freiburg.
+
+Currently we consider this book to be a draft, and will keep adding more material and fix typos and errors as we become aware of them.
+You might want to check this webpage from time to time for the latest updates.
+
+If you notice any mistakes or have suggestions for examples and exercises, please do let us know.
+
+[https://haozhu10015.github.io Hao Zhu]
+&
+[https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Joschka Boedecker]
+
+== Download
+
+Copyright (C) 2026 by Hao Zhu and Joschka Boedecker. All rights reserved.
+
+- [dmlbook.pdf Current draft] (updated May 18, 2026)
+
+== External links
+
+Some useful resources related to the book:
+
+- [https://www.stanford.edu/~boyd/cvxbook/ /Convex Optimization/] book by Stephen Boyd and Lieven Vandenberghe
+- [https://www.cvxpy.org/ +CVXPY+]: a Python library for convex optimization
+- Disciplined convex programming [https://dcp.stanford.edu/ analyzer]
