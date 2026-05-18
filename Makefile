@@ -4,7 +4,7 @@ BOLD  := \033[1m
 RESET := \033[0m
 
 CONF  := zhweb.conf
-JEMDOC_SRC := *.jemdoc papers/*.jemdoc teaching/*.jemdoc
+JEMDOC_SRC := $(shell find . -name '*.jemdoc' -type f | sort | sed 's|^\./||')
 
 .DEFAULT_GOAL := help
 
@@ -28,8 +28,8 @@ jemdoc: ## generate all jemdoc pages
 	@jemdoc-rs -c $(CONF) $(JEMDOC_SRC)
 
 update: ## compile only new or modified jemdoc files
-	$(call ensure,jemdoc-rs,cargo install --git $(JEMDOC_RS_REPO))
-	@git add *.jemdoc */*.jemdoc
+	$(call ensure,jemdoc-rs,cargo install jemdoc-rs)
+	@git add $(JEMDOC_SRC)
 	@for f in $$({ git diff --name-only HEAD -- '*.jemdoc'; git diff --cached --name-only --diff-filter=A -- '*.jemdoc'; } | sort -u) ; do \
 		if [ -f "$$f" ]; then \
 			printf "$(BLUE)Compiling $$f...$(RESET)\n"; \
