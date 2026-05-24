@@ -29,6 +29,20 @@ Copyright (C) 2026 by Hao Zhu and Joschka Boedecker. All rights reserved.
 
 - [dmlbook.pdf Current version] (updated May 18, 2026)
 
+== Cite
+
+It is not known when and where this book will be published, but if you want to cite it, you can use the following BibTeX entry:
+~~~
+{}{}
+@misc{zhu2026dml,
+  title={\textit{Disciplined Machine Learning}},
+  author={Zhu, H. and Boedecker, J.},
+  year={2026},
+  note={Book draft, available online.}
+  url={https://haozhu10015.github.io/dmlbook/}
+}
+~~~
+
 == External links
 
 Some useful resources related to the book:
