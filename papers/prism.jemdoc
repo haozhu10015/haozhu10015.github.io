@@ -6,6 +6,7 @@ W. Sheng, H. Zhu, and J. Boedecker
 Working draft, May 2026.
 
 - [pdf/prism.pdf Current version]
+- [https://doi.org/10.48550/arXiv.2605.26998 arXiv entry]
 
 Inverse reinforcement learning (IRL) recovers reward functions from observed behavior, yet traditional methods assume a single stationary reward that cannot capture goal switching within an episode.
 Recent multi-intention IRL methods address this by segmenting trajectories, but model intention transitions as either a memoryless Markov chain or via manual state augmentation with a fixed history window.
