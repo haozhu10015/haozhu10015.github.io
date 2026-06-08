@@ -4,6 +4,7 @@
   src: url('/fonts/OpenSans-Variable.woff2') format('woff2');
   font-weight: 200 900;
   font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -11,6 +12,7 @@
   src: url('/fonts/OpenSans-Italic-Variable.woff2') format('woff2');
   font-weight: 200 900;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
@@ -18,4 +20,5 @@
   src: url('/fonts/JetBrainsMono-Variable.woff2') format('woff2');
   font-weight: 100 800;
   font-style: normal;
+  font-display: swap;
 }
