@@ -1,0 +1,16 @@
+# jemdoc: menu{MENU}{}{../}
+# jemdoc: addcss{/css/papers.css}
+= Generation of Custom Solvers in Rust for Convex Optimization
+H. Zhu and J. Boedecker
+
+/Manuscript/, June 2026.
+
+- [pdf/cvxgenrust.pdf Current version]
+- [https://github.com/dxogrp/cvxgenrust +cvxgenrust+ package code]
+- [https://github.com/dxogrp/cgr-benchmarks Code for the numerical experiments]
+
+We introduce +cvxgenrust+, an open-source tool for generating custom Rust code that solves families of parameterized convex optimization problems modeled in CVXPY.
++cvxgenrust+ canonicalizes a problem family, extracts affine maps to Clarabel cone-program data, and generates a specialized Rust crate that updates parameters and calls Clarabel natively at runtime.
+The generated solver can also be exposed to Python and registered as a custom CVXPY solver.
+Our code generator supports a wide range of convex optimization problems up to semidefinite programs and exponential-cone problems.
+Numerical experiments show reduced runtime relative to direct CVXPY solves and performance comparable to CVXPYgen on shared problem classes.

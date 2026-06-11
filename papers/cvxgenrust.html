@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="generator" content="jemdoc-rs, see https://github.com/haozhu10015/jemdoc-rs" />
+<link rel="stylesheet" href="/css/jemdoc.css" type="text/css" />
+<link rel="stylesheet" href="/css/papers.css" type="text/css" />
+<title>Generation of Custom Solvers in Rust for Convex Optimization</title>
+<!-- MathJax -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['\\[','\\]']],
+    tags: 'ams'
+  }
+};
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
+</script>
+<!-- End MathJax -->
+</head>
+<link rel="icon" href="/img/zhicon.png" type="image/x-icon" />
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Hao Zhu</div>
+<div class="menu-item"><a href="../index.html">Home</a></div>
+<div class="menu-item"><a href="../biography.html">Biography</a></div>
+<div class="menu-item"><a href="../teaching.html">Teaching</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="../books.html">Books</a></div>
+<div class="menu-item"><a href="../papers.html">Papers</a></div>
+<div class="menu-item"><a href="../software.html">Software</a></div>
+<div class="menu-category">Classes</div>
+<div class="menu-item"><a href="../teaching/pgm/">1228</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Generation of Custom Solvers in Rust for Convex Optimization</h1>
+<div id="subtitle">H. Zhu and J. Boedecker
+</div>
+</div>
+<p><i>Manuscript</i>, June 2026.
+</p>
+<ul>
+<li><p><a href="pdf/cvxgenrust.pdf" target="_blank">Current version</a>
+</p>
+</li>
+<li><p><a href="https://github.com/dxogrp/cvxgenrust" target="_blank"><tt>cvxgenrust</tt> package code</a>
+</p>
+</li>
+<li><p><a href="https://github.com/dxogrp/cgr-benchmarks" target="_blank">Code for the numerical experiments</a>
+</p>
+</li>
+</ul>
+<p>We introduce <tt>cvxgenrust</tt>, an open-source tool for generating custom Rust code that solves families of parameterized convex optimization problems modeled in CVXPY.
+<tt>cvxgenrust</tt> canonicalizes a problem family, extracts affine maps to Clarabel cone-program data, and generates a specialized Rust crate that updates parameters and calls Clarabel natively at runtime.
+The generated solver can also be exposed to Python and registered as a custom CVXPY solver.
+Our code generator supports a wide range of convex optimization problems up to semidefinite programs and exponential-cone problems.
+Numerical experiments show reduced runtime relative to direct CVXPY solves and performance comparable to CVXPYgen on shared problem classes.
+</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2026-06-11 14:52:32 CEST, by <a href="https://github.com/haozhu10015/jemdoc-rs" target="_blank">jemdoc-rs</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

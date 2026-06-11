@@ -17,6 +17,9 @@ Papers are listed below by year of submission before they are published, or year
 # : {[/papers/dml_workshop.html Disciplined machine learning workshop]}
 # H. Zhu and J. Boedecker
 
+: {[/papers/cvxgenrust.html Generation of custom solvers in Rust for convex optimization]}
+H. Zhu and J. Boedecker
+
 : {[/papers/prism.html Probabilistic recurrent intention switching model]}
 W. Sheng, H. Zhu, and J. Boedecker
 
