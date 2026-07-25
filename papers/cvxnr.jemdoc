@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{}{../}
+# jemdoc: addcss{/css/papers.css}
+= Convex Conceptual Regions in Neural Representations
+R. Deuerlein and H. Zhu
+
+Thesis Supervision, University of Freiburg, July 2026.
+
+- [pdf/bsthesis_deuerlein.pdf Deuerlein's Bachelor thesis]
+- [https://github.com/nrgrp/cvxnr Code]
+
+A geometric view of conceptual representation holds that concepts are represented as regions in an internal similarity space, and natural concepts as /convex/ regions of that space.
+Building on this idea, recent work has shown that the decision regions of trained artificial neural networks become increasingly convex across processing layers.
+Whether biological neural populations exhibit comparable convex organization, however, has not yet been directly tested.
+We adapt the graph-based convexity framework of Tětková et al. to neural spiking data and apply it to the IBL Brainwide Map dataset, in which mice perform a perceptual decision-making task.
+We measure convexity of population activity with respect to the animal's choice, using time within the decision interval as a substitute for the layer depth available in artificial networks.
+We find that brainwide convexity of recorded population activity rises from near baseline at stimulus onset to substantially elevated values as the decision is expressed.
+It emerges across all regions examined but differs in timing and magnitude, and convex representation is positively associated with decision accuracy.
+These results indicate that convex organization of choice-related representations is a feature of biological neural populations, not only of artificial ones.

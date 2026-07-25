@@ -9,17 +9,18 @@ Some older software which I was involved (e.g., during my PhD) may still be avai
 
 == Recent software
 
-- [https://github.com/dxogrp/dbcp +dbcp+]: a CVXPY extension for biconvex programming
 - [https://github.com/dxogrp/cvxgenrust +cvxgenrust+]: a Python package for generating Rust crates from parameterized CVXPY problems.
+- [https://github.com/cvxpy/cvxrust +cvxrust+]: a Rust implementation of disciplined convex programming
+- [https://github.com/dxogrp/dbcp +dbcp+]: a CVXPY extension for biconvex programming
 - [https://github.com/haozhu10015/jemdoc-rs +jemdoc-rs+]: a Rust rewrite of jemdoc\+MathJax for creating websites
 - [https://github.com/dxogrp/rlfit +rlfit+]: a Python package for fitting reinforcement learning models to behavior data under multi-armed bandits
-- [https://github.com/cvxpy/cvxrust +cvxrust+]: a Rust implementation of disciplined convex programming
+- [https://github.com/nrgrp/cvxnr +cvxnr+]: a Python package for convex conceptual region analysis of decision boundaries
 - [https://github.com/nrgrp/saferl-lib +saferl-lib+]: a toolkit for constrained reinforcement learning and safe reinforcement learning research
-- [https://github.com/dxogrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in Python
 - [https://github.com/dxogrp/foils +foils+]: a light LaTeX class package for generating slides
 - [https://github.com/haozhu10015/latex-template +latex-template+]: LaTex templates for article, slides, book, and poster
 
 == Not so recent software
 
+- [https://github.com/dxogrp/dlfm +dlfm+]: a framework for fitting discrete latent factor models in Python
 - [https://github.com/nrgrp/cvx_irl +cvx_irl+]: for inverse reinforcement learning via convex optimization
 - [https://github.com/nrgrp/hiql +hiql+]: for hierarchical inverse Q-learning

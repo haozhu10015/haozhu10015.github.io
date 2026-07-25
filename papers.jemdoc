@@ -20,6 +20,9 @@ Papers are listed below by year of submission before they are published, or year
 : {[/papers/cvxgenrust.html Generation of custom solvers in Rust for convex optimization]}
 H. Zhu and J. Boedecker
 
+: {[/papers/cvxnr.html Convex conceptual regions in neural representations]}
+R. Deuerlein and H. Zhu
+
 : {[/papers/prism.html Probabilistic recurrent intention switching model]}
 W. Sheng, H. Zhu, and J. Boedecker
 
@@ -30,7 +33,7 @@ S. M. B. Azad, J. Hoffmann, I. Nematollahi, H. Zhu, A. Valada, and J. Boedecker
 H. Zhu, J. Hoffmann, B. Zhang, and J. Boedecker
 
 : {[/papers/rfa_cfa.html Mechanisms of premotor-motor cortex interactions during movement initiation]}
-M. Alyahyay, J. J. Ammer, G. Kalweit, H. Zhu, A. Adzemovic, M. Kalweit, G. Karvat, A. Schneider, Y. Tong, M. D. Doebroessy, Z. Jaeckel, C. Akmese, A. Vlachos, J. Boedecker, and I. Diester
+M. Alyahyay, J. J. Ammer, G. Kalweit, H. Zhu, A. Adzemovic, M. Kalweit, G. Karvat, A. Schneider, Y. Tong, M. D. Döbrössy, Z. Jäckel, C. Akmese, A. Vlachos, J. Boedecker, and I. Diester
 
 == 2025
 
@@ -44,7 +47,7 @@ B. Zhang, Y. Zhang, H. Zhu, S. Yan, T. Brox, and J. Boedecker
 H. Zhu, S. Yan, J. Hoffmann, and J. Boedecker
 
 : {[/papers/sleep_memory_system.html Sleep resolves competition between explicit and implicit memory systems]}
-K. Kleespies, P. Paulus, H. Zhu, F. Pargent, M. Jakob, J. Werle, M. Czisch, J. Boedecker, S. Gais, and M. Schoenauer
+K. Kleespies, P. Paulus, H. Zhu, F. Pargent, M. Jakob, J. Werle, M. Czisch, J. Boedecker, S. Gais, and M. Schönauer
 
 : {[/papers/cvx_imab.html Solving inverse problem for multi-armed bandits via convex optimization]}
 H. Zhu and J. Boedecker
