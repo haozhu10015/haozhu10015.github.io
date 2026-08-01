@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{}{/}
-= Disciplined Machine Learning
+# jemdoc: menu{MENU}{dml/}{/}
+= 1422: Disciplined Machine Learning
 [https://haozhu10015.github.io Hao Zhu] and [https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Joschka Boedecker], [https://uni-freiburg.de/ University of Freiburg]
 
 This webpage contains the material and basic information about the course /Disciplined Machine Learning/; more details and up to date information will be posted on [https://ilias.uni-freiburg.de/ ILIAS].
@@ -13,3 +13,13 @@ This webpage contains the material and basic information about the course /Disci
 The textbook is [https://haozhu10015.github.io/dmlbook/ /Disciplined Machine Learning/] written by Hao Zhu and Joschka Boedecker, available online.
 
 You will not need to consult any other books or materials for the course, but if you are eager to read more, we highly recommend the book [https://www.stanford.edu/~boyd/cvxbook/ /Convex Optimization/] by Stephen Boyd and Lieven Vandenberghe, which is freely available online, or in hard copy from your favorite bookstore.
+
+# == Motivation
+
+# == Large language model policy
+
+# == Catalog description
+
+# == Prerequisites
+
+# == Final exam
