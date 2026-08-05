@@ -5,9 +5,10 @@ H. Zhu and J. Boedecker
 
 /Manuscript/, June 2026.
 
-- [pdf/cvxgenrust.pdf Current version]
+- [pdf/cvxgenrust/cvxgenrust.pdf Current version]
+- [pdf/cvxgenrust/cvxgenrust_slides.pdf Slides]
 - [https://github.com/dxogrp/cvxgenrust +cvxgenrust+ package code]
-- [https://github.com/dxogrp/cgr-benchmarks Code for the numerical experiments]
+- [https://github.com/dxogrp/cgr-benchmarks Code for numerical experiments]
 
 We introduce +cvxgenrust+, an open-source tool for generating custom Rust code that solves families of parameterized convex optimization problems modeled in CVXPY.
 +cvxgenrust+ canonicalizes a problem family, extracts affine maps to Clarabel cone-program data, and generates a specialized Rust crate that updates parameters and calls Clarabel natively at runtime.
