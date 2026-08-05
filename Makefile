@@ -5,8 +5,8 @@ RESET := \033[0m
 
 CONF  := zhweb.conf
 JEMDOC_SRC := $(shell find . -name '*.jemdoc' -type f | sort | sed 's|^\./||')
-PREVIEW_HOST := 127.0.0.1
-PREVIEW_PORT := 8000
+PREVIEW_HOST ?= 127.0.0.1
+PREVIEW_PORT ?= 8000
 
 .DEFAULT_GOAL := help
 
@@ -21,8 +21,6 @@ install: ## install all dependencies (requires Rust/Cargo)
 	@command -v cargo >/dev/null 2>&1 || { printf "cargo not found, install Rust first: https://rustup.rs\n"; exit 1; }
 	@printf "$(BLUE)Installing jemdoc-rs...$(RESET)\n"
 	@cargo install jemdoc-rs
-	@printf "$(BLUE)Installing static-web-server...$(RESET)\n"
-	@cargo install static-web-server
 
 jemdoc: ## generate all jemdoc pages
 	$(call ensure,jemdoc-rs,cargo install jemdoc-rs)
@@ -41,12 +39,15 @@ update: ## compile only new or modified jemdoc files
 	@git reset -q
 
 preview: ## preview the webpage locally
-	$(call ensure,static-web-server,cargo install static-web-server)
-	@printf "$(BLUE)Starting local web server on http://$(PREVIEW_HOST):$(PREVIEW_PORT)...$(RESET)\n"
-	@static-web-server --host $(PREVIEW_HOST) --port $(PREVIEW_PORT) --root . --redirect-trailing-slash true & \
-	pid=$$!; \
-	trap 'kill $$pid 2>/dev/null; wait $$pid 2>/dev/null; exit 0' INT TERM; \
-	wait $$pid
+	@command -v python3 >/dev/null 2>&1 || { printf "python3 not found; install Python 3 first: https://www.python.org/downloads/\n"; exit 1; }
+	@port=$(PREVIEW_PORT); \
+	while command -v lsof >/dev/null 2>&1 && \
+		lsof -nP -iTCP:$$port -sTCP:LISTEN >/dev/null 2>&1; do \
+		printf "$(BLUE)Port $$port is in use; trying $$((port + 1))...$(RESET)\n"; \
+		port=$$((port + 1)); \
+	done; \
+	printf "$(BLUE)Starting local web server on http://$(PREVIEW_HOST):$$port...$(RESET)\n"; \
+	exec python3 -m http.server $$port --bind $(PREVIEW_HOST) --directory .
 
 clean: ## clean generated files and directories
 	@printf "$(BLUE)Cleaning project...$(RESET)\n"
