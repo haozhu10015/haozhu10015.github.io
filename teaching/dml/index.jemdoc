@@ -5,14 +5,15 @@
 This webpage contains the material and basic information about the course /Disciplined Machine Learning/; more details and up to date information will be posted on [https://ilias.uni-freiburg.de/ ILIAS].
 
 == Announcements
-
 - The course will be offered in the winter semester of 2026. The exact schedule will be announced later.
-- If you want to find something to do before the lecture begins, you can start reading chapter 1 of the [https://haozhu10015.github.io/dmlbook/ textbook], or get familiar with the Python library [https://www.cvxpy.org/ +CVXPY+].
+- If you want to find something to do before the lecture begins, you can start reading chapter 1 of the [https://haozhu10015.github.io/dmlbook/ textbook], or get familiar with the Python library [https://www.cvxpy.org/ CVXPY].
 
 == Textbook
 The textbook is [https://haozhu10015.github.io/dmlbook/ /Disciplined Machine Learning/] written by Hao Zhu and Joschka Boedecker, available online.
 
 You will not need to consult any other books or materials for the course, but if you are eager to read more, we highly recommend the book [https://www.stanford.edu/~boyd/cvxbook/ /Convex Optimization/] by Stephen Boyd and Lieven Vandenberghe, which is freely available online, or in hard copy from your favorite bookstore.
+
+# == Lecture slides
 
 == Requirements
 === Homework assignments
@@ -26,7 +27,7 @@ You will not need to consult any other books or materials for the course, but if
 - You are allowed, or even encouraged, to work in groups for the homework assignments, but you have to write your own solutions and submit them individually.
 
 === Final exam
-- The final exam is a 180 minutes open-book exam.
+- The final exam is a 180 minutes open-book written exam.
     The exact date and time will be announced later.
 - You are allowed to bring one cheat sheet subject to the following requirements:
     -- The cheat sheet could be (at most) one double sided A4 paper.
@@ -47,4 +48,14 @@ If you simply let LLMs do the homework for you, you will perform poorly on the c
 
 # == Catalog description
 
-# == Prerequisites
+== Prerequisites
+- Solid understanding of calculus, linear algebra, and probability.
+- Exposure to convex analysis and optimization will be helpful but is not required.
+- You will use Python libraries like [https://www.cvxpy.org/ CVXPY] for disciplined optimization, to write short scripts, so basic programming skills in Python are required.
+
+== Objectives
+After completion of the course, students will be able to
+- recognize and solve convex and typical nonconvex optimization problems that arise in machine learning;
+- understand basic theory of disciplined optimization, and know the results that are useful in computation;
+- interpret, customize, and formulate different machine learning problems into structured optimization problems;
+- use disciplined optimization tools in their own research work or applications.
