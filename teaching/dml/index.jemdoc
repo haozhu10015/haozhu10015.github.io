@@ -2,24 +2,70 @@
 = 1422: Disciplined Machine Learning
 [https://haozhu10015.github.io Hao Zhu] and [https://nr.informatik.uni-freiburg.de/people/joschka-boedecker Joschka Boedecker], [https://uni-freiburg.de/ University of Freiburg]
 
-This webpage contains the material and basic information about the course /Disciplined Machine Learning/; more details and up to date information will be posted on [https://ilias.uni-freiburg.de/ ILIAS].
+This webpage contains the material and basic information about the course /Disciplined Machine Learning/; we reserve the right to change them later.
+More details and up to date information will be posted on [https://ilias.uni-freiburg.de/ ILIAS].
 
 == Announcements
-
-- The course will be offered in the winter semester of 2026. The exact schedule will be announced later.
-- If you want to find something to do before the lecture begins, you can start reading chapter 1 of the [https://haozhu10015.github.io/dmlbook/ textbook], or get familiar with the Python library [https://www.cvxpy.org/ +CVXPY+].
+- Welcome to /1442: Disciplined Machine Learning/, winter semester 2026/27.
+- 1442 will be taught by Hao Zhu and Joschka Boedecker.
+- Lectures are Wednesdays and Thursdays 2:00--4:00 PM, Georges-Koehler-Allee 101, SR 00-017/19.
+    The first lecture will be on October 21.
+- If you want to find something to do before the lecture begins, you can start reading chapter 1 of the [https://haozhu10015.github.io/dmlbook/ textbook], or get familiar with the Python library [https://www.cvxpy.org/ CVXPY].
+- The course will be on ILIAS, so videos of the lectures will be available to students registered for the course.
 
 == Textbook
 The textbook is [https://haozhu10015.github.io/dmlbook/ /Disciplined Machine Learning/] written by Hao Zhu and Joschka Boedecker, available online.
 
 You will not need to consult any other books or materials for the course, but if you are eager to read more, we highly recommend the book [https://www.stanford.edu/~boyd/cvxbook/ /Convex Optimization/] by Stephen Boyd and Lieven Vandenberghe, which is freely available online, or in hard copy from your favorite bookstore.
 
-# == Motivation
+# == Lecture slides
 
-# == Large language model policy
+== Requirements
+=== Homework assignments
+- /Weekly/ homework assignments are released every Friday and are due the following Friday at 11:59 PM.
+- Exercise sheets have to be completed and handed in on time, with the following late policy.
+    Each student has *one* late day, i.e., you may submit *one* homework up to 24 hours late.
+    Always reach out if you're facing unusual disruptions to your course work.
+- Each question on the homework will be graded on a scale of \{0, 1, 2\}.
+    To successfully complete the course work (i.e., Studienleistung), you need to have reached at least 50% of the overall number of achievable points for the semester.
+- We will use ILIAS for homework submission.
+- You are allowed, or even encouraged, to work in groups for the homework assignments, but you have to write your own solutions and submit them individually.
 
-# == Catalog description
+=== Final exam
+- The final exam is a 180 minutes open-book written exam.
+    The exact date and time will be announced later.
+- You are allowed to bring one cheat sheet subject to the following requirements:
+    -- The cheat sheet could be (at most) one double sided A4 paper.
+    -- The content must be hand-written.
+    -- Yes, you could write digitally and then print, but a magnifier is not allowed in the exam.
+- No other materials (e.g., textbooks) are allowed in the exam.
+    We will confirm if a calculator is strictly necessary closer to the exam date, but you can nevertheless bring one as you like.
 
-# == Prerequisites
+== Large language model policy
+When you later apply the material learnt during the course in your own work, you will definitely have access to, and use, LLMs.
+For this reason we do *not* forbid you from using LLMs in your homework assignments.
+However, one important skill you must have is the ability to check the correctness of what LLMs tell you, and to debug it if it is wrong.
+Therefore, it is recommended only to use LLMs *after* you have solved the problem yourself.
 
-# == Final exam
+As a result of this open LLM policy, we will grade homework submissions harshly if they use unfamiliar notation that we do not use or rely on concepts that have not yet been taught in the class, even if the solutions are correct.
+It is your responsibility to learn the material so all the effort you put into this course in the end pays off.
+If you simply let LLMs do the homework for you, you will perform poorly on the course work assignments (i.e., Studienleistung) and will very likely fail the final exam; most importantly, you will not learn.
+
+== Prerequisites
+- Solid understanding of calculus, linear algebra, and probability.
+- Exposure to convex analysis and optimization will be helpful but is not required.
+- You will use Python libraries like [https://www.cvxpy.org/ CVXPY] for disciplined optimization, to write short scripts, so basic programming skills in Python are required.
+
+== Catalog description
+Concentrate on formulating, analyzing, and solving inverse optimization problems that arise in machine learning, with a focus on disciplined convex optimization, and several other typical nonconvex optimization problems.
+Convex sets, functions, and optimization problems.
+Constructive convex analysis and disciplined convex programming.
+Relaxation and duality.
+Applications to machine learning, signal processing, statistics, control, and finance.
+
+== Objectives
+After completion of the course, students will be able to
+- recognize and solve convex and typical nonconvex optimization problems that arise in machine learning;
+- understand basic theory of disciplined optimization, and know the results that are useful in computation;
+- interpret, customize, and formulate different machine learning problems into structured optimization problems;
+- use disciplined optimization tools in their own research work or applications.
