@@ -46,12 +46,17 @@ As a result of this open LLM policy, we will grade homework submissions harshly 
 It is your responsibility to learn the material so all the effort you put into this course in the end pays off.
 If you simply let LLMs do the homework for you, you will perform poorly on the course work assignments (i.e., Studienleistung) and will very likely fail the final exam; most importantly, you will not learn.
 
-# == Catalog description
-
 == Prerequisites
 - Solid understanding of calculus, linear algebra, and probability.
 - Exposure to convex analysis and optimization will be helpful but is not required.
 - You will use Python libraries like [https://www.cvxpy.org/ CVXPY] for disciplined optimization, to write short scripts, so basic programming skills in Python are required.
+
+== Catalog description
+Concentrate on formulating, analyzing, and solving inverse optimization problems that arise in machine learning, with a focus on disciplined convex optimization, and several other typical nonconvex optimization problems.
+Convex sets, functions, and optimization problems.
+Constructive convex analysis and disciplined convex programming.
+Relaxation and duality.
+Applications to machine learning, signal processing, statistics, control, and finance.
 
 == Objectives
 After completion of the course, students will be able to
