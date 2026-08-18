@@ -9,6 +9,7 @@ Some older software which I was involved (e.g., during my PhD) may still be avai
 
 == Recent software
 
+- [https://github.com/dxogrp/blvpy +blvpy+]: a Python package for disciplined bilevel programming based on CVXPY.
 - [https://github.com/dxogrp/cvxgenrust +cvxgenrust+]: a Python package for generating Rust crates from parameterized CVXPY problems.
 - [https://github.com/cvxpy/cvxrust +cvxrust+]: a Rust implementation of disciplined convex programming
 - [https://github.com/dxogrp/dbcp +dbcp+]: a CVXPY extension for biconvex programming
