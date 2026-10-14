@@ -3,9 +3,10 @@
 = Disciplined Biconvex Programming
 H. Zhu and J. Boedecker
 
-To appear, /Journal of Optimization Theory and Applications/, September 2026.
+/Journal of Optimization Theory and Applications/, October 2026.
 
-- [pdf/dbcp/dbcp.pdf Current version]
+- [pdf/dbcp/dbcp.pdf Final version]
+- [https://doi.org/10.1007/s10957-026-03125-9 Springer catalog entry]
 - [https://doi.org/10.48550/arXiv.2511.01813 arXiv entry]
 - [pdf/dbcp/dbcp_slides.pdf Original slides for an internal seminar]
 - [pdf/dbcp/dbcp_cvxpy_workshop.pdf Slides used at the CVXPY workshop 2026]
