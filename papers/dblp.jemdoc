@@ -9,6 +9,7 @@ H. Zhu and J. Boedecker
 - [https://doi.org/10.48550/arXiv.2609.00644 arXiv entry]
 - [https://github.com/dxogrp/blvpy +BLVPY+ package code]
 - [https://dxogrp.github.io/blvpy/examples Examples]
+- [pdf/dblp/dblp_poster.pdf Poster]
 
 Bilevel optimization provides a natural modeling language for hierarchical decision problems.
 However, applying existing numerical solvers usually requires substantial manual analysis and reformulation.
