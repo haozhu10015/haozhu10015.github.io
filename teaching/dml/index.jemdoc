@@ -18,7 +18,10 @@ The textbook is [https://haozhu10015.github.io/dmlbook/ /Disciplined Machine Lea
 
 You will not need to consult any other books or materials for the course, but if you are eager to read more, we highly recommend the book [https://www.stanford.edu/~boyd/cvxbook/ /Convex Optimization/] by Stephen Boyd and Lieven Vandenberghe, which is freely available online, or in hard copy from your favorite bookstore.
 
-# == Lecture slides
+== Lecture slides
+
+. [slides/1_intro.pdf Introduction]
+. [slides/2_cvxopt.pdf Convex optimization]
 
 == Requirements
 === Homework assignments
