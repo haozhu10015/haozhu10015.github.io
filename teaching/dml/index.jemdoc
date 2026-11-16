@@ -22,6 +22,18 @@ You will not need to consult any other books or materials for the course, but if
 
 . [slides/1_intro.pdf Introduction]
 . [slides/2_cvxopt.pdf Convex optimization]
+. [slides/3_dcp.pdf Disciplined convex analysis and programming]
+. [slides/4_scp.pdf Sequential convex programming]
+. [slides/5_objs.pdf Objectives]
+. [slides/6_regs.pdf Regularization functions]
+. [slides/7_constrs.pdf Constraints]
+. [slides/8_robust.pdf Robust models]
+. [slides/9_lfe.pdf Latent factor estimation]
+. [slides/10_conclusion.pdf Conclusions]
+
+The full set of slides is available as one PDF file [slides/dmlslides.pdf here].
+
+If you want to print the slides or to make some notes, you can also download the full set of slides in 2up form [slides/dmlslides_2up.pdf here].
 
 == Requirements
 === Homework assignments
